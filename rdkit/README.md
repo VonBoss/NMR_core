@@ -68,9 +68,9 @@ Calculate a QED score and properties related to drug-likeness from a .sdf struct
 
 ![QED scores out](images/test_qed_output.png)
 
-### Calculate SMILES, QED score, QED properties, and moldescriptors from a .sdf file
+### Calculate SMILES, QED score, QED properties, moldescriptors, and geometry from a .sdf file
 
-    python calculateQED.py --sdf example_inputs/test_library.sdf --out example_outputs -p -md
+    python calculateQED.py --sdf example_inputs/test_library.sdf --out example_outputs -p -md -g
 
 ## Output files
 
