@@ -10,7 +10,15 @@ Calculate a QED score and properties related to drug-likeness from a .sdf struct
 
 ### Option 1: Install `nmr` conda environment with provided .yml file
 
-    conda create -f nmr_enviroment.yml
+1. Install `nmr` conda environment
+
+        cd <path-to-NMR_core-repository>
+        conda create -f nmr_enviroment.yml
+
+1. Add rdkit scripts to the PATH within your conda environment
+ 
+        cd rdkit
+        conda develop .
 
 ### Option 2: Manually install dependencies
 
