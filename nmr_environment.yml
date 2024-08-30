@@ -1,11 +1,18 @@
-name: rdkit
+name: nmr
 channels:
   - conda-forge
+  - bioconda
+  - jmrohwer
   - defaults
 dependencies:
+  - numpy
+  - scipy
+  - ipykernel
+  - matplotlib
+  - nmrpy
   - rdkit
   - xlsxwriter
   - ipykernel
   - pandas=2.1
   - pyarrow
-prefix: /home/sdvee/anaconda3/envs/rdkit
+  - jupyter
