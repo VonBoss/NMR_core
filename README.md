@@ -11,7 +11,7 @@ Installation steps:
 
 1. Open your terminal and navigate to the directory where you would like to download the NMR_core repository from Github.
 
-        cd <path-to-t1_GitHub-repositories>
+        cd <path-to-GitHub-repositories>
 
     * **Tip for new Windows WSL users:** You can navigate to your Windows file system in the WSL command line by using the following command:
 
@@ -34,7 +34,7 @@ Options:
 1. Create `nmr` conda environment.
 
         cd NMR_core
-        conda env create --file enviroment.yml
+        conda env create --file nmr_environment.yml
 
 2. Activate the `nmr` environment to use it.
 
