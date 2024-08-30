@@ -1,0 +1,11 @@
+name: rdkit
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - rdkit
+  - xlsxwriter
+  - ipykernel
+  - pandas=2.1
+  - pyarrow
+prefix: /home/sdvee/anaconda3/envs/rdkit
