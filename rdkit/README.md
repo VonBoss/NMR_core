@@ -8,11 +8,11 @@ Calculate a QED score and properties related to drug-likeness from a .sdf struct
 
 ## Installation
 
-### Option 1: Install conda enviroment with provided .yml file
+### Option 1: Install `nmr` conda environment with provided .yml file
 
-    conda create -f rdkit_enviroment.yml
+    conda create -f nmr_enviroment.yml
 
-### Option 2: Manually install dependancies
+### Option 2: Manually install dependencies
 
   * rdkit
   * xlsxwriter
@@ -23,14 +23,14 @@ Calculate a QED score and properties related to drug-likeness from a .sdf struct
 
 ### SDF files
 * Input .sdf files can be made in ChemDraw by saving as MDL SDfile V3000 (*.sdf).
-* All chemical structures in the inputed SDF files will be analyzed.
+* All chemical structures in the inputted SDF files will be analyzed.
 
 ### CSV files (SMILES)
 * Input .csv files must contain a column containing SMILES strings.
     * The column containing the SMILES string must have a title containing the word "SMILES" (e.g. \*SMILES\*) 
 
 * Generating SMILES:
-    * SMILES can be optained using PubChem, Wikipedia, Chemdraw, ect.
+    * SMILES can be obtained using PubChem, Wikipedia, Chemdraw, ect.
     * SMILES can be generated from ligands in the PDB by using the [Create Custom Report option](https://www.rcsb.org/news/5f6529e207302466657ec0e9) and exported in a .csv.
 
 ## Arguments
@@ -50,7 +50,7 @@ Calculate a QED score and properties related to drug-likeness from a .sdf struct
 
 ## Usage examples
 
-### Activate rdkit conda enviroment before running
+### Activate rdkit conda environment before running
 
     activate rdkit
 
