@@ -1,0 +1,3433 @@
+
+     RDKit          3D
+
+123127  0  0  0  0  0  0  0  0999 V2000
+   -0.3146   -2.2663    3.0170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9001   -1.5057    2.5062 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9776   -0.0108    2.9517 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2013    0.7245    2.2821 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3473    0.9718    0.7066 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2171    1.5565   -0.2649 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1634    0.8831   -0.3804 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5134    0.0804    0.4627 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0784    1.0069   -1.6037 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0542    2.2318   -1.7483 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9349    2.8415   -0.5656 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8987    1.8134    0.1908 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2386    2.0221    1.7272 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0911    2.0229    2.7644 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5980    3.0918    3.0952 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7121    0.8376    3.6371 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2160    0.7528    3.8870 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8155    0.6888    5.0824 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2840    0.6800    2.8311 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2491   -0.5122    3.1752 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1634    3.2382    1.9429 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5387    0.4559   -0.0637 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6625   -0.3933   -0.3332 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4018   -1.2188   -1.6187 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1601   -2.5838   -1.5568 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4493   -2.4514   -0.7251 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1109   -1.9218    0.6994 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8443   -1.2757    0.7575 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1095   -3.0649    1.7142 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3700   -3.2817   -2.8578 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1164   -3.4781   -3.6031 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4260   -2.7449   -3.7376 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8047   -0.4591   -2.7275 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9746    3.5435    0.3882 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7343    3.9369   -1.0408 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4401    3.7106   -2.2481 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2807    0.8257   -2.9066 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0889    3.0885   -0.2291 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4113    1.9844    0.7291 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2441    2.6985    1.9485 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7926    3.8024    2.2045 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4036    2.0299    2.8234 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4183    2.2314   -0.3025 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8057    1.8259    0.2069 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9291    2.2073   -0.7725 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8879    1.4338   -2.1007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9623   -0.0091   -1.8764 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0277   -0.7012   -1.4420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6402   -2.0192   -1.2901 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3374   -2.1449   -1.6243 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9576   -0.8991   -1.9761 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4764   -3.1430   -0.8052 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8984   -4.4010   -0.5657 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6807   -5.4556   -0.0929 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0424   -5.2494    0.1339 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5938   -4.0313   -0.1071 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8538   -2.9874   -0.5660 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4769   -0.0952    2.7139 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1207   -3.3577    2.9561 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1768   -2.0590    2.3608 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5318   -2.0103    4.0740 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9670   -1.6057    1.4019 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7742   -2.0470    2.9277 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2299   -0.0396    4.0356 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7295    0.0386    0.2339 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6780    1.3720   -1.2571 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7234    0.1066   -1.5842 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4919    3.0719   -2.2120 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7432    1.9027   -2.5490 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8739    2.0282   -0.2839 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8983    1.1725    1.9881 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1933    1.0320    4.6211 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9092   -0.7117    2.1412 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8893   -1.3203    3.8472 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3571   -0.5396    3.2372 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4140    3.3426    3.0221 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6968    4.1825    1.5981 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1177    3.0976    1.3937 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6148    0.1664   -0.5030 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3163   -1.4650   -1.6820 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5122   -3.2632   -0.9527 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9854   -3.4244   -0.6867 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1271   -1.7129   -1.2068 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9002   -1.2035    1.0180 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3496   -3.8261    1.4375 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8703   -2.6742    2.7251 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1112   -3.5475    1.7548 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7636   -2.5272   -4.0576 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3214   -3.8787   -2.9366 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2723   -4.2219   -4.4128 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.3903   -2.6522   -3.2046 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1449   -1.7749   -4.1891 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.6084   -3.4605   -4.5664 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9836   -0.0970   -3.1551 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5189    4.2147    1.0725 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3637    2.8151    0.9478 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3417    4.2632   -0.1646 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8390    2.6795   -2.3520 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3094    4.4017   -2.2811 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7908    3.9573   -3.1161 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9748    0.6835   -3.7649 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3460    1.7177   -3.1134 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3678   -0.0746   -2.8443 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7597    3.4372    0.7693 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0410    3.5958   -0.4650 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4267    3.4290   -1.0404 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1631    1.6429   -1.2087 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4133    3.3090   -0.5720 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8268    0.7340    0.4121 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0025    2.3470    1.1681 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8798    3.2967   -0.9868 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9061    2.0147   -0.2780 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7517    1.7482   -2.7245 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9691    1.6883   -2.6696 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9955   -0.2662   -1.2316 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9505   -0.6457   -2.2840 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8418   -4.5682   -0.7347 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2360   -6.4237    0.0988 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6600   -6.0575    0.5032 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3484   -2.0423   -0.7416 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4558   -0.3462    3.7950 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5843   -1.0316    2.1247 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4191    0.4732    2.5548 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 14 16  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 17 19  1  0
+ 16 20  1  0
+ 13 21  1  0
+ 12 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 27 29  1  0
+ 25 30  1  0
+ 30 31  1  0
+ 30 32  1  0
+ 24 33  1  0
+ 11 34  1  0
+ 11 35  1  0
+ 35 36  1  0
+  9 37  1  0
+  6 38  1  0
+  5 39  1  0
+ 39 40  1  0
+ 40 41  2  0
+ 40 42  1  0
+ 39 43  1  0
+ 43 44  1  0
+ 44 45  1  0
+ 45 46  1  0
+ 46 47  1  0
+ 47 48  1  0
+ 48 49  2  0
+ 49 50  1  0
+ 50 51  2  0
+ 49 52  1  0
+ 52 53  2  0
+ 53 54  1  0
+ 54 55  2  0
+ 55 56  1  0
+ 56 57  2  0
+  4 58  1  0
+ 19  3  1  0
+ 42  4  1  0
+ 28 23  1  0
+ 51 47  1  0
+ 57 52  1  0
+  1 59  1  0
+  1 60  1  0
+  1 61  1  0
+  2 62  1  0
+  2 63  1  0
+  3 64  1  0
+  5 65  1  0
+  6 66  1  0
+  9 67  1  0
+ 10 68  1  0
+ 10 69  1  0
+ 12 70  1  0
+ 13 71  1  0
+ 16 72  1  0
+ 20 73  1  0
+ 20 74  1  0
+ 20 75  1  0
+ 21 76  1  0
+ 21 77  1  0
+ 21 78  1  0
+ 23 79  1  0
+ 24 80  1  0
+ 25 81  1  0
+ 26 82  1  0
+ 26 83  1  0
+ 27 84  1  0
+ 29 85  1  0
+ 29 86  1  0
+ 29 87  1  0
+ 31 88  1  0
+ 31 89  1  0
+ 31 90  1  0
+ 32 91  1  0
+ 32 92  1  0
+ 32 93  1  0
+ 33 94  1  0
+ 34 95  1  0
+ 34 96  1  0
+ 34 97  1  0
+ 36 98  1  0
+ 36 99  1  0
+ 36100  1  0
+ 37101  1  0
+ 37102  1  0
+ 37103  1  0
+ 38104  1  0
+ 38105  1  0
+ 38106  1  0
+ 43107  1  0
+ 43108  1  0
+ 44109  1  0
+ 44110  1  0
+ 45111  1  0
+ 45112  1  0
+ 46113  1  0
+ 46114  1  0
+ 48115  1  0
+ 51116  1  0
+ 53117  1  0
+ 54118  1  0
+ 55119  1  0
+ 57120  1  0
+ 58121  1  0
+ 58122  1  0
+ 58123  1  0
+M  END
+>  <PDB ID>  (1) 
+1P9X
+
+>  <Structure Title>  (1) 
+THE CRYSTAL STRUCTURE OF THE 50S LARGE RIBOSOMAL SUBUNIT FROM DEINOCOCCUS RADIODURANS COMPLEXED WITH TELITHROMYCIN KETOLIDE ANTIBIOTIC
+
+>  <Sequence>  (1) 
+GGUCAAGAUAGUAAGGGUCCACGGUGGAUGCCCUGGCGCUGGAGCCGAUGAAGGACGCGAUUACCUGCGAAAAGCCCCGACGAGCUGGAGAUACGCUUUGACUCGGGGAUGUCCGAAUGGGGAAACCCACCUCGUAAGAGGUAUCCGCAAGGAUGGGAACUCAGGGAACUGAAACAUCUCAGUACCUGAAGGAGAAGAAAGAGAAUUCGAUUCCGUUAGUAGCGGCGAGCGAACCCGGAUCAGCCCAAACCGAAACGCUUGCGUUUCGGGGUUGUAGGACCAGUUUUUAAGAUUCAACCCCUCAAGCCGAAGUGGCUGGAAAGCUACACCUCAGAAGGUGAGAGUCCUGUAGGCGAACGAGCGGUUGACUGUACUGGCACCUGAGUAGGUCGUUGUUCGUGAAACGAUGACUGAAUCCGCGCGGACCACCGCGCAAGGCUAAAUACUCCCAGUGACCGAUAGCGCAUAGUACCGUGAGGGAAAGGUGAAAAGAACCCCGGGAGGGGAGUGAAAGAGAACCUGAAACCGUGGACUUACAAGCAGUCAUGGCACCUUAUGCGUGUUAUGGCGUGCCUAUUGAAGCAUGAGCCGGCGACUUAGACCUGACGUGCGAGCUUAAGUUGAAAAACGGAGGCGGAGCGAAAGCGAGUCCGAAUAGGGCGGCAUUAGUACGUCGGGCUAGACUCGAAACCAGGUGAGCUAAGCAUGACCAGGUUGAAACCCCCGUGACAGGGGGCGGAGGACCGAACCGGUGCCUGCUGAAACAGUCUCGGAUGAGUUGUGUUUAGGAGUGAAAAGCUAACCGAACCUGGAGAUAGCUAGUUCUCCCCGAAAUGUAUUGAGGUACAGCCUCGGAUGUUGACCAUGUCCUGUAGAGCACUCACAAGGCUAGGGGGCCUACCAGCUUACCAAACCUUAUGAAACUCCGAAGGGGCACGCGUUUAGUCCGGGAGUGAGGCUGCGAGAGCUAACUUCCGUAGCCGAGAGGGAAACAACCCAGACCAUCAGCUAAGGUCCCUAAAUGAUCGCUCAGUGGUUAAGGAUGUGUCGUCGCAUAGACAGCCAGGAGGUUGGCUUAGAAGCAGCCACCCUUCAAAGAGUGCGUAAUAGCUCACUGGUCGAGUGACGAUGCGCCGAAAAUGAUCGGGGCUCAAGUGAUCUACCGAAGCUAUGGAUUCAACUCGCGAAGCGAGUUGUCUGGUAGGGGAGCGUUCAGUCCGCGGAGAAGCCAUACCGGAAGGAGUGGUGGAGCCGACUGAAGUGCGGAUGCCGGCAUGAGUAACGAUAAAAGAAGUGAGAAUCUUCUUCGCCGUAAGGACAAGGGUUCCUGGGGAAGGGUCGUCCGCCCAGGGAAAGUCGGGACCUAAGGUGAGGCCGAACGGCGCAGCCGAUGGACAGCAGGUCAAGAUUCCUGCACCGAUCAUGUGGAGUGAUGGAGGGACGCAUUACGCUAUCCAAUGCCAAGCUAUGGCUAUGCUGGUUGGUACGCUCAAGGGCGAUCGGGUCAGAAAAUCUACCGGUCACAUGCCUCAGACGUAUCGGGAGCUUCCUCGGAAGCGAAGUUGGAAACGCGACGGUGCCAAGAAAAGCUUCUAAACGUUGAAACAUGAUUGCCCGUACCGCAAACCGACACAGGUGUCCGAGUGUCAAUGCACUAAGGCGCGCGAGAGAACCCUCGUUAAGGAACUUUGCAAUCUCACCCCGUAACUUCGGAAGAAGGGGUCCCCACGCUUCGCGUGGGGCGCAGUGAAUAGGCCCAGGCGACUGUUUACCAAAAUCACAGCACUCUGCCAACACGAACAGUGGACGUAUAGGGUGUGACGCCUGCCCGGUGCCGGAAGGUCAAGUGGAGCGGUGCAAGCUGCGAAAUGAAGCCCCGGUGAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCUGCACGAAAGGCGUAACGAUCUGGGCGCUGUCUCAACGAGGGACUCGGUGAAAUUGAAUUGGCUGUAAAGAUGCGGCCUACCCGUAGCAGGACGAAAAGACCCCGUGGAGCUUUACUAUAGUCUGGCAUUGGGAUUCGGGUUUCUCUGCGUAGGAUAGGUGGGAGCCUGCGAAACUGGCCUUUUGGGGUCGGUGGAGGCAACGGUGAAAUACCACCCUGAGAAACUUGGAUUUCUAACCUGAAAAAUCACUUUCGGGGACCGUGCUUGGCGGGUAGUUUGACUGGGGCGGUCGCCUCCCAAAAUGUAACGGAGGCGCCCAAAGGUCACCUCAAGACGGUUGGAAAUCGUCUGUAGAGCGCAAAGGUAGAAGGUGGCUUGACUGCGAGACUGACACGUCGAGCAGGGAGGAAACUCGGGCUUAGUGAACCGGUGGUACCGUGUGGAAGGGCCAUCGAUCAACGGAUAAAAGUUACCCCGGGGAUAACAGGCUGAUCUCCCCCGAGAGUCCAUAUCGGCGGGGAGGUUUGGCACCUCGAUGUCGGCUCGUCGCAUCCUGGGGCUGAAGAAGGUCCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGCACGCGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCUCUAUCCGCUACGGGCGCAGGAGAAUUGAGGGGAGUUGCUCCUAGUACGAGAGGACCGGAGUGAACGGACCGCUGGUCUCCCUGCUGUCGUACCAACGGCACAUGCAGGGUAGCUAUGUCCGGAACGGAUAACCGCUGAAAGCAUCUAAGCGGGAAGCCAGCCCCAAGAUGAGUUCUCCCACUGUUUAUCAGGUAAGACUCCCGGAAGACCACCGGGUUAAGAGGCCAGGCGUGCACGCAUAGCAAUGUGUUCAGCGGACUGGUGCUCAUCAGUCGAGGUCUUGACCACUC
+
+>  <Polymer Entity Sequence Length>  (1) 
+2880
+
+>  <Molecular Weight (Entity)>  (1) 
+933.405
+
+>  <Ligand ID>  (1) 
+TEL
+
+>  <Ligand Name>  (1) 
+TELITHROMYCIN
+
+>  <SMILES>  (1) 
+CCC1C2(C(C(C(=O)C(CC(C(C(C(=O)C(C(=O)O1)C)C)OC3C(C(CC(O3)C)N(C)C)O)(C)OC)C)C)N(C(=O)O2)CCCCn4cc(nc4)c5cccnc5)C
+
+>  <ROMol>  (1) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b336157e0>
+
+>  <QED>  (1) 
+0.184283
+
+>  <MW>  (1) 
+812.018
+
+>  <ALOGP>  (1) 
+4.9292
+
+>  <HBA>  (1) 
+13
+
+>  <HBD>  (1) 
+1
+
+>  <PSA>  (1) 
+171.85
+
+>  <ROTB>  (1) 
+11
+
+>  <AROM>  (1) 
+2
+
+>  <ALERTS>  (1) 
+3
+
+>  <Num Ring>  (1) 
+5
+
+>  <Num Ar Ring>  (1) 
+2
+
+>  <Num ArHetcy>  (1) 
+2
+
+>  <Num Hetcy>  (1) 
+5
+
+>  <Num Hetatm>  (1) 
+15
+
+>  <Num Spiro>  (1) 
+0
+
+>  <Frac Sp3>  (1) 
+0.72093
+
+>  <MR>  (1) 
+214.2508
+
+>  <NPR1>  (1) 
+0.320067
+
+>  <NPR2>  (1) 
+0.918335
+
+>  <Geometry>  (1) 
+Rod-like
+
+$$$$
+
+     RDKit          3D
+
+127129  0  0  0  0  0  0  0  0999 V2000
+   -5.3005   -1.0050   -2.6150 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9438   -0.3612   -2.2607 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8661   -1.4428   -1.9264 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0676   -2.2203   -0.5866 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7558   -1.2911    0.6408 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3190   -1.7961    2.0187 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8215   -1.5025    2.2540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1576    0.0058    2.4036 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5621    0.7335    1.1501 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4444    0.2555    0.3859 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0761    2.0280    0.9365 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8824    3.0693    0.3838 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0129    4.2576    0.0514 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0588    4.3011   -0.8900 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7517    3.2799   -1.9151 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6804    2.6321   -2.6310 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3225    1.7445   -3.7845 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4115    0.5497   -3.4089 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1014   -0.2044   -4.5566 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9611    3.4741    1.3950 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6267   -2.1610    1.2785 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9735   -2.4960    1.4854 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5798   -2.1314    2.5292 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.6971   -3.2937    0.4553 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1163   -3.1923    2.1745 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0036   -3.4590    2.9987 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3444   -1.1165    0.7250 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9568    0.0850    1.3794 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0243    0.8688    0.4719 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0919    1.6072    1.3306 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8983    0.4904    2.0814 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9541   -0.6843    2.5060 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3811   -0.2312    2.6404 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3828   -1.3215    3.8293 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8844   -0.0092    1.1878 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1219   -0.3163    1.8142 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1343    0.8252    1.6810 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5428    1.1026    0.2160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8126   -0.2354   -0.5505 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9435   -1.4599   -0.0980 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6581   -1.5129    1.2917 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6967   -1.6985   -0.9670 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2061   -0.5716   -0.4576 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8537   -1.3857   -1.4012 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1966   -1.9184   -2.3422 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3479   -1.5042   -1.3784 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0212   -0.4113   -2.2357 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6759   -0.5541   -3.7288 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5423   -0.4633   -2.0501 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4703    1.9397   -0.5205 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7352    1.8576    0.2198 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5437    2.6190    2.2979 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4691    3.5170    1.7033 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6314    3.4730    2.8330 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6522    1.7377   -0.3988 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2613   -3.5698   -0.5109 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5597   -4.0419   -1.7556 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1912   -4.4321   -2.7262 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0661   -0.2295   -2.8320 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2110   -1.6911   -3.4870 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6975   -1.5885   -1.7590 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1124    0.2932   -1.3883 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8552   -0.9868   -1.9157 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8834   -2.1406   -2.7874 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1278   -2.5132   -0.5434 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2385   -0.3186    0.4396 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8054   -1.2179    2.8214 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0490   -1.9623    3.2421 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0094    0.1060    3.1169 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2990    0.5411    2.8675 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4275    2.7055   -0.5077 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1131    5.1452    0.6720 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4416    5.1939   -0.9292 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7156    3.2037   -2.2226 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7320    2.8263   -2.4750 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7979    2.3604   -4.5442 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2517    1.3822   -4.2653 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4577    0.9883   -3.0637 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9555   -0.4549   -4.9995 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4965    3.7584    2.3610 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.6646    2.6285    1.5598 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5545    4.3341    1.0078 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0538   -3.4366   -0.4437 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.9579   -4.2919    0.8757 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.6223   -2.7698    0.1592 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8402   -4.5538    3.0328 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1833   -3.1137    4.0366 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0797   -2.9955    2.5896 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8148    0.7587    1.6005 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5796    0.1374   -0.1610 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7676    2.1259    0.6157 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3542    0.9315    2.9913 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9973   -1.4948    1.7408 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4672   -0.5519    4.6272 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3513   -1.8495    3.7149 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6277   -2.0698    4.1508 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0047   -0.4995    2.9046 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0446    0.5371    2.2532 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7313    1.7433    2.1563 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6036   -0.0399   -1.6292 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5630   -2.3647   -0.2884 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1067   -0.7782   -1.1189 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000   -2.0680   -1.9703 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0468   -2.4598   -0.4925 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6848   -1.3984   -0.3228 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6442   -2.5136   -1.7292 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6722    0.5859   -1.8901 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2314    0.1983   -4.3291 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5945   -0.3737   -3.8955 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9359   -1.5680   -4.0993 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8069   -0.2961   -0.9839 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0384    0.3306   -2.6518 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9473   -1.4537   -2.3666 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8746    2.3277   -1.4725 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1564    2.8101    0.0974 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5687    1.3497   -0.7617 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5584    2.7062    0.6984 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4214    2.9792    1.5316 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7470    4.3334    2.4045 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0950    3.9728    0.7554 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2295    2.9375    3.5957 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2315    4.3606    3.3713 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054    3.8403    2.0240 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1241    1.1706   -1.0609 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9433   -4.3847   -0.1820 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4683   -3.5112    0.2639 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4721   -4.1225   -1.7573 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+  9 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  3
+ 14 15  1  0
+ 15 16  2  3
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 12 20  1  0
+  7 21  1  0
+ 21 22  1  0
+ 22 23  2  0
+ 22 24  1  0
+  6 25  1  0
+ 25 26  1  0
+  5 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 31 32  1  0
+ 32 33  1  0
+ 32 34  1  0
+ 31 35  1  0
+ 35 36  1  0
+ 36 37  1  0
+ 37 38  1  0
+ 38 39  1  0
+ 39 40  1  0
+ 40 41  1  0
+ 40 42  1  0
+ 39 43  1  0
+ 43 44  1  0
+ 44 45  2  0
+ 44 46  1  0
+ 46 47  1  0
+ 47 48  1  0
+ 47 49  1  0
+ 38 50  1  0
+ 38 51  1  0
+ 30 52  1  0
+ 52 53  1  0
+ 52 54  1  0
+ 29 55  1  0
+  4 56  1  0
+ 56 57  1  0
+ 57 58  2  0
+ 18  2  1  0
+ 33 28  1  0
+ 41 36  1  0
+  1 59  1  0
+  1 60  1  0
+  1 61  1  0
+  2 62  1  0
+  3 63  1  0
+  3 64  1  0
+  4 65  1  0
+  5 66  1  0
+  6 67  1  0
+  7 68  1  0
+  8 69  1  0
+  8 70  1  0
+ 12 71  1  0
+ 13 72  1  0
+ 14 73  1  0
+ 15 74  1  0
+ 16 75  1  0
+ 17 76  1  0
+ 17 77  1  0
+ 18 78  1  0
+ 19 79  1  0
+ 20 80  1  0
+ 20 81  1  0
+ 20 82  1  0
+ 24 83  1  0
+ 24 84  1  0
+ 24 85  1  0
+ 26 86  1  0
+ 26 87  1  0
+ 26 88  1  0
+ 28 89  1  0
+ 29 90  1  0
+ 30 91  1  0
+ 31 92  1  0
+ 32 93  1  0
+ 34 94  1  0
+ 34 95  1  0
+ 34 96  1  0
+ 36 97  1  0
+ 37 98  1  0
+ 37 99  1  0
+ 39100  1  0
+ 40101  1  0
+ 42102  1  0
+ 42103  1  0
+ 42104  1  0
+ 46105  1  0
+ 46106  1  0
+ 47107  1  0
+ 48108  1  0
+ 48109  1  0
+ 48110  1  0
+ 49111  1  0
+ 49112  1  0
+ 49113  1  0
+ 50114  1  0
+ 50115  1  0
+ 50116  1  0
+ 51117  1  0
+ 53118  1  0
+ 53119  1  0
+ 53120  1  0
+ 54121  1  0
+ 54122  1  0
+ 54123  1  0
+ 55124  1  0
+ 56125  1  0
+ 56126  1  0
+ 57127  1  0
+M  END
+>  <PDB ID>  (2) 
+2O44
+
+>  <Structure Title>  (2) 
+Structure of 23S rRNA of the large ribosomal subunit from Deinococcus radiodurans in complex with the macrolide josamycin
+
+>  <Sequence>  (2) 
+GGUCAAGAUAGUAAGGGUCCACGGUGGAUGCCCUGGCGCUGGAGCCGAUGAAGGACGCGAUUACCUGCGAAAAGCCCCGACGAGCUGGAGAUACGCUUUGACUCGGGGAUGUCCGAAUGGGGAAACCCACCUCGUAAGAGGUAUCCGCAAGGAUGGGAACUCAGGGAACUGAAACAUCUCAGUACCUGAAGGAGAAGAAAGAGAAUUCGAUUCCGUUAGUAGCGGCGAGCGAACCCGGAUCAGCCCAAACCGAAACGCUUGCGUUUCGGGGUUGUAGGACCAGUUUUUAAGAUUCAACCCCUCAAGCCGAAGUGGCUGGAAAGCUACACCUCAGAAGGUGAGAGUCCUGUAGGCGAACGAGCGGUUGACUGUACUGGCACCUGAGUAGGUCGUUGUUCGUGAAACGAUGACUGAAUCCGCGCGGACCACCGCGCAAGGCUAAAUACUCCCAGUGACCGAUAGCGCAUAGUACCGUGAGGGAAAGGUGAAAAGAACCCCGGGAGGGGAGUGAAAGAGAACCUGAAACCGUGGACUUACAAGCAGUCAUGGCACCUUAUGCGUGUUAUGGCGUGCCUAUUGAAGCAUGAGCCGGCGACUUAGACCUGACGUGCGAGCUUAAGUUGAAAAACGGAGGCGGAGCGAAAGCGAGUCCGAAUAGGGCGGCAUUAGUACGUCGGGCUAGACUCGAAACCAGGUGAGCUAAGCAUGACCAGGUUGAAACCCCCGUGACAGGGGGCGGAGGACCGAACCGGUGCCUGCUGAAACAGUCUCGGAUGAGUUGUGUUUAGGAGUGAAAAGCUAACCGAACCUGGAGAUAGCUAGUUCUCCCCGAAAUGUAUUGAGGUACAGCCUCGGAUGUUGACCAUGUCCUGUAGAGCACUCACAAGGCUAGGGGGCCUACCAGCUUACCAAACCUUAUGAAACUCCGAAGGGGCACGCGUUUAGUCCGGGAGUGAGGCUGCGAGAGCUAACUUCCGUAGCCGAGAGGGAAACAACCCAGACCAUCAGCUAAGGUCCCUAAAUGAUCGCUCAGUGGUUAAGGAUGUGUCGUCGCAUAGACAGCCAGGAGGUUGGCUUAGAAGCAGCCACCCUUCAAAGAGUGCGUAAUAGCUCACUGGUCGAGUGACGAUGCGCCGAAAAUGAUCGGGGCUCAAGUGAUCUACCGAAGCUAUGGAUUCAACUCGCGAAGCGAGUUGUCUGGUAGGGGAGCGUUCAGUCCGCGGAGAAGCCAUACCGGAAGGAGUGGUGGAGCCGACUGAAGUGCGGAUGCCGGCAUGAGUAACGAUAAAAGAAGUGAGAAUCUUCUUCGCCGUAAGGACAAGGGUUCCUGGGGAAGGGUCGUCCGCCCAGGGAAAGUCGGGACCUAAGGUGAGGCCGAACGGCGCAGCCGAUGGACAGCAGGUCAAGAUUCCUGCACCGAUCAUGUGGAGUGAUGGAGGGACGCAUUACGCUAUCCAAUGCCAAGCUAUGGCUAUGCUGGUUGGUACGCUCAAGGGCGAUCGGGUCAGAAAAUCUACCGGUCACAUGCCUCAGACGUAUCGGGAGCUUCCUCGGAAGCGAAGUUGGAAACGCGACGGUGCCAAGAAAAGCUUCUAAACGUUGAAACAUGAUUGCCCGUACCGCAAACCGACACAGGUGUCCGAGUGUCAAUGCACUAAGGCGCGCGAGAGAACCCUCGUUAAGGAACUUUGCAAUCUCACCCCGUAACUUCGGAAGAAGGGGUCCCCACGCUUCGCGUGGGGCGCAGUGAAUAGGCCCAGGCGACUGUUUACCAAAAUCACAGCACUCUGCCAACACGAACAGUGGACGUAUAGGGUGUGACGCCUGCCCGGUGCCGGAAGGUCAAGUGGAGCGGUGCAAGCUGCGAAAUGAAGCCCCGGUGAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCUGCACGAAAGGCGUAACGAUCUGGGCGCUGUCUCAACGAGGGACUCGGUGAAAUUGAAUUGGCUGUAAAGAUGCGGCCUACCCGUAGCAGGACGAAAAGACCCCGUGGAGCUUUACUAUAGUCUGGCAUUGGGAUUCGGGUUUCUCUGCGUAGGAUAGGUGGGAGCCUGCGAAACUGGCCUUUUGGGGUCGGUGGAGGCAACGGUGAAAUACCACCCUGAGAAACUUGGAUUUCUAACCUGAAAAAUCACUUUCGGGGACCGUGCUUGGCGGGUAGUUUGACUGGGGCGGUCGCCUCCCAAAAUGUAACGGAGGCGCCCAAAGGUCACCUCAAGACGGUUGGAAAUCGUCUGUAGAGCGCAAAGGUAGAAGGUGGCUUGACUGCGAGACUGACACGUCGAGCAGGGAGGAAACUCGGGCUUAGUGAACCGGUGGUACCGUGUGGAAGGGCCAUCGAUCAACGGAUAAAAGUUACCCCGGGGAUAACAGGCUGAUCUCCCCCGAGAGUCCAUAUCGGCGGGGAGGUUUGGCACCUCGAUGUCGGCUCGUCGCAUCCUGGGGCUGAAGAAGGUCCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGCACGCGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCUCUAUCCGCUACGGGCGCAGGAGAAUUGAGGGGAGUUGCUCCUAGUACGAGAGGACCGGAGUGAACGGACCGCUGGUCUCCCUGCUGUCGUACCAACGGCACAUGCAGGGUAGCUAUGUCCGGAACGGAUAACCGCUGAAAGCAUCUAAGCGGGAAGCCAGCCCCAAGAUGAGUUCUCCCACUGUUUAUCAGGUAAGACUCCCGGAAGACCACCGGGUUAAGAGGCCAGGCGUGCACGCAUAGCAAUGUGUUCAGCGGACUGGUGCUCAUCAGUCGAGGUCUUGACCACUC
+
+>  <Polymer Entity Sequence Length>  (2) 
+2880
+
+>  <Molecular Weight (Entity)>  (2) 
+933.405
+
+>  <Ligand ID>  (2) 
+JOS
+
+>  <Ligand Name>  (2) 
+(2S,3S,4R,6S)-6-{[(2R,3S,4R,5R,6S)-6-{[(4R,5S,6S,7R,9R,10S,12E,14Z,16R)-4-(ACETYLOXY)-10-HYDROXY-5-METHOXY-9,16-DIMETHYL-2-OXO-7-(2-OXOETHYL)OXACYCLOHEXADECA-12,14-DIEN-6-YL]OXY}-4-(DIMETHYLAMINO)-5-HYDROXY-2-METHYLTETRAHYDRO-2H-PYRAN-3-YL]OXY}-4-HYDROXY-2,4-DIMETHYLTETRAHYDRO-2H-PYRAN-3-YL 3-METHYLBUTANOATE
+
+>  <SMILES>  (2) 
+CC1CC(C(C(C(CC(=O)OC(C=CC=CCC1O)C)OC(=O)C)OC)OC2C(C(C(C(O2)C)OC3CC(C(C(O3)C)OC(=O)CC(C)C)(C)O)N(C)C)O)CC=O
+
+>  <ROMol>  (2) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b336158c0>
+
+>  <QED>  (2) 
+0.146937
+
+>  <MW>  (2) 
+828.006
+
+>  <ALOGP>  (2) 
+3.0134
+
+>  <HBA>  (2) 
+16
+
+>  <HBD>  (2) 
+3
+
+>  <PSA>  (2) 
+206.05
+
+>  <ROTB>  (2) 
+12
+
+>  <AROM>  (2) 
+0
+
+>  <ALERTS>  (2) 
+3
+
+>  <Num Ring>  (2) 
+3
+
+>  <Num Ar Ring>  (2) 
+0
+
+>  <Num ArHetcy>  (2) 
+0
+
+>  <Num Hetcy>  (2) 
+3
+
+>  <Num Hetatm>  (2) 
+16
+
+>  <Num Spiro>  (2) 
+0
+
+>  <Frac Sp3>  (2) 
+0.809524
+
+>  <MR>  (2) 
+209.8514
+
+>  <NPR1>  (2) 
+0.279156
+
+>  <NPR2>  (2) 
+0.976566
+
+>  <Geometry>  (2) 
+Rod-like
+
+$$$$
+
+     RDKit          3D
+
+ 29 28  0  0  0  0  0  0  0  0999 V2000
+   -2.6601   -0.3399    0.1084 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7878    0.4543   -0.8765 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3439    0.5857   -0.3807 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3064   -0.7319   -0.3442 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5637   -0.7149    0.4197 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6926    0.0243   -0.3202 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0170   -0.0959    0.4386 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0657    0.6396   -0.2608 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1042   -0.4733   -0.3877 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7610    0.8302   -0.4361 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2395   -1.3613    0.2337 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6556    0.1565    1.1036 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2083    1.4757   -1.0016 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7921   -0.0427   -1.8714 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2026    1.2617   -1.0743 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3519    1.0533    0.6294 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4986   -1.0471   -1.3243 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4016   -0.2625    1.4232 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8750   -1.7687    0.5882 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4373    1.1008   -0.4188 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8151   -0.4067   -1.3378 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3071   -1.1668    0.5322 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8957    0.3277    1.4600 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2865    0.1305   -1.1477 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9295    0.5981    0.3272 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1098   -0.9313   -1.4013 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6647   -1.1490    0.2965 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9004    1.1630    0.5458 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7150    0.6906   -0.8407 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  1  9  1  0
+  9 10  1  0
+  1 11  1  0
+  1 12  1  0
+  2 13  1  0
+  2 14  1  0
+  3 15  1  0
+  3 16  1  0
+  4 17  1  0
+  5 18  1  0
+  5 19  1  0
+  6 20  1  0
+  6 21  1  0
+  7 22  1  0
+  7 23  1  0
+  8 24  1  0
+  8 25  1  0
+  9 26  1  0
+  9 27  1  0
+ 10 28  1  0
+ 10 29  1  0
+M  END
+>  <PDB ID>  (3) 
+8I7N
+
+>  <Structure Title>  (3) 
+The Tet-S1 state of G264A mutated Tetrahymena group I intron with 6nt 3'/5'-exon and 2-aminopurine nucleoside
+
+>  <Sequence>  (3) 
+CUCUCUAAAUAGCAAUAUUUACCUUUGGAGGGAAAAGUUAUCAGGCAUGCACCUGGUAGCUAGUCUUUAAACCAAUAGAUUGCAUCGGUUUAAAAGGCAAGACCGUCAAAUUGCGGGAAAGGGGUCAACAGCCGUUCAGUACCAAGUCUCAGGGGAAACUUUGAGAUGGCCUUGCAAAGGGUAUGGUAAUAAGCUGACGGACAUGGUCCUAACCACGCAGCCAAGUCCUAAGUCAACAGAUCUUCUGUUGAUAUGGAUGCAGUUCACAAACUAAAUGUCGGUCGGGGAAGAUGUAUUCUUCUCAUAAGAUAUAGUCGGACCUCUCCUUAAUGGGAGCUAGCGGAUGAAGUGAUGCAACACUGGAGCCGCUGGGAACUAAUUUGUAUGCGAAAGUAUAUUGAUUAGUUUUGGAGUACUC
+
+>  <Polymer Entity Sequence Length>  (3) 
+418
+
+>  <Molecular Weight (Entity)>  (3) 
+134.811
+
+>  <Ligand ID>  (3) 
+SPD
+
+>  <Ligand Name>  (3) 
+SPERMIDINE
+
+>  <SMILES>  (3) 
+C(CCNCCCN)CN
+
+>  <ROMol>  (3) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b33615e00>
+
+>  <QED>  (3) 
+0.429544
+
+>  <MW>  (3) 
+145.25
+
+>  <ALOGP>  (3) 
+-0.3363
+
+>  <HBA>  (3) 
+3
+
+>  <HBD>  (3) 
+3
+
+>  <PSA>  (3) 
+64.07
+
+>  <ROTB>  (3) 
+7
+
+>  <AROM>  (3) 
+0
+
+>  <ALERTS>  (3) 
+1
+
+>  <Num Ring>  (3) 
+0
+
+>  <Num Ar Ring>  (3) 
+0
+
+>  <Num ArHetcy>  (3) 
+0
+
+>  <Num Hetcy>  (3) 
+0
+
+>  <Num Hetatm>  (3) 
+3
+
+>  <Num Spiro>  (3) 
+0
+
+>  <Frac Sp3>  (3) 
+1.0
+
+>  <MR>  (3) 
+44.8295
+
+>  <NPR1>  (3) 
+0.057276
+
+>  <NPR2>  (3) 
+0.977637
+
+>  <Geometry>  (3) 
+Rod-like
+
+$$$$
+
+     RDKit          3D
+
+ 32 34  0  0  0  0  0  0  0  0999 V2000
+    3.9328   -1.5022   -0.1646 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6633   -1.8577    0.2636 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6727   -0.9386    0.2824 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8588    0.3432   -0.1154 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1073    0.7095   -0.5383 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1284   -0.2090   -0.5594 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3480    2.0491   -0.9617 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5391   -1.5106    0.7110 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8936   -2.8036    0.9294 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2064   -3.0570    0.6680 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8037   -0.9324    0.8164 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5829   -1.0444   -0.4958 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4170    0.2116   -0.4736 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5143    1.1705    0.3044 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7300    0.4231    1.2077 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2745    2.2731    1.0571 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0755    3.0158    0.1776 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6198   -0.0244    0.2153 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7160   -1.0281   -1.6025 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7421   -2.2195   -0.1933 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5770    2.7531   -0.9505 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2971    2.3381   -1.2872 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2009   -3.5643    1.2656 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3659   -1.4772    1.6080 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2070   -1.9692   -0.5058 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6233    0.6045   -1.4972 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8230    1.6638   -0.4163 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9198    1.8245    1.8420 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5484    2.9432    1.5711 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4617    3.5973   -0.3429 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2312   -0.4696   -0.4278 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2533   -1.3124   -2.3873 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  5  7  1  0
+  3  8  1  0
+  8  9  1  0
+  9 10  2  0
+  8 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 14 16  1  0
+ 16 17  1  0
+ 13 18  1  0
+ 12 19  1  0
+  6  1  1  0
+ 10  2  1  0
+ 15 11  1  0
+  1 20  1  0
+  7 21  1  0
+  7 22  1  0
+  9 23  1  0
+ 11 24  1  0
+ 12 25  1  0
+ 13 26  1  0
+ 14 27  1  0
+ 16 28  1  0
+ 16 29  1  0
+ 17 30  1  0
+ 18 31  1  0
+ 19 32  1  0
+M  END
+>  <PDB ID>  (4) 
+8I7N
+
+>  <Structure Title>  (4) 
+The Tet-S1 state of G264A mutated Tetrahymena group I intron with 6nt 3'/5'-exon and 2-aminopurine nucleoside
+
+>  <Sequence>  (4) 
+CUCUCUAAAUAGCAAUAUUUACCUUUGGAGGGAAAAGUUAUCAGGCAUGCACCUGGUAGCUAGUCUUUAAACCAAUAGAUUGCAUCGGUUUAAAAGGCAAGACCGUCAAAUUGCGGGAAAGGGGUCAACAGCCGUUCAGUACCAAGUCUCAGGGGAAACUUUGAGAUGGCCUUGCAAAGGGUAUGGUAAUAAGCUGACGGACAUGGUCCUAACCACGCAGCCAAGUCCUAAGUCAACAGAUCUUCUGUUGAUAUGGAUGCAGUUCACAAACUAAAUGUCGGUCGGGGAAGAUGUAUUCUUCUCAUAAGAUAUAGUCGGACCUCUCCUUAAUGGGAGCUAGCGGAUGAAGUGAUGCAACACUGGAGCCGCUGGGAACUAAUUUGUAUGCGAAAGUAUAUUGAUUAGUUUUGGAGUACUC
+
+>  <Polymer Entity Sequence Length>  (4) 
+418
+
+>  <Molecular Weight (Entity)>  (4) 
+134.811
+
+>  <Ligand ID>  (4) 
+OJI
+
+>  <Ligand Name>  (4) 
+(2R,3R,4S,5R)-2-(2-azanylpurin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol
+
+>  <SMILES>  (4) 
+c1c2c(nc(n1)N)n(cn2)C3C(C(C(O3)CO)O)O
+
+>  <ROMol>  (4) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b33615ee0>
+
+>  <QED>  (4) 
+0.49052
+
+>  <MW>  (4) 
+267.245
+
+>  <ALOGP>  (4) 
+-1.98
+
+>  <HBA>  (4) 
+8
+
+>  <HBD>  (4) 
+4
+
+>  <PSA>  (4) 
+139.54
+
+>  <ROTB>  (4) 
+2
+
+>  <AROM>  (4) 
+2
+
+>  <ALERTS>  (4) 
+0
+
+>  <Num Ring>  (4) 
+3
+
+>  <Num Ar Ring>  (4) 
+2
+
+>  <Num ArHetcy>  (4) 
+2
+
+>  <Num Hetcy>  (4) 
+3
+
+>  <Num Hetatm>  (4) 
+9
+
+>  <Num Spiro>  (4) 
+0
+
+>  <Frac Sp3>  (4) 
+0.5
+
+>  <MR>  (4) 
+62.7448
+
+>  <NPR1>  (4) 
+0.322667
+
+>  <NPR2>  (4) 
+0.800282
+
+>  <Geometry>  (4) 
+Balanced
+
+$$$$
+
+     RDKit          3D
+
+ 29 28  0  0  0  0  0  0  0  0999 V2000
+    3.1723   -0.5949   -0.7193 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7643   -1.1446   -0.4408 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6982   -0.0428   -0.3809 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6323   -0.6427   -0.2254 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6498    0.4041   -0.0738 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0208   -0.2313    0.1750 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1027    0.8418    0.3643 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4129    0.2392    0.6000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7572    0.1712    0.4737 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1488    0.5223    0.2087 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8398   -1.4545   -0.9482 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1514    0.0623   -1.6162 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5033   -1.8494   -1.2604 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7624   -1.7210    0.5102 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9113    0.6180    0.4872 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7368    0.5645   -1.3140 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8488   -1.1729   -1.1030 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6934    1.0329   -0.9924 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3970    1.0538    0.7942 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2893   -0.8758   -0.6906 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9674   -0.8678    1.0853 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8427    1.4895    1.2298 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1583    1.4833   -0.5422 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6548   -0.3725   -0.2134 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3575   -0.3682    1.4498 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1723    1.0977    0.6635 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7127   -0.4685    1.3825 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5318    0.9772    1.0689 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1651    1.2491   -0.5437 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  1  9  1  0
+  9 10  1  0
+  1 11  1  0
+  1 12  1  0
+  2 13  1  0
+  2 14  1  0
+  3 15  1  0
+  3 16  1  0
+  4 17  1  0
+  5 18  1  0
+  5 19  1  0
+  6 20  1  0
+  6 21  1  0
+  7 22  1  0
+  7 23  1  0
+  8 24  1  0
+  8 25  1  0
+  9 26  1  0
+  9 27  1  0
+ 10 28  1  0
+ 10 29  1  0
+M  END
+>  <PDB ID>  (5) 
+7XD7
+
+>  <Structure Title>  (5) 
+The pre-Tet-C state of wild-type Tetrahymena group I intron with 30nt 3'/5'-exon
+
+>  <Sequence>  (5) 
+AUAUUUACCUUUGGAGGGAAAAGUUAUCAGGCAUGCACCUGGUAGCUAGUCUUUAAACCAAUAGAUUGCAUCGGUUUAAAAGGCAAGACCGUCAAAUUGCGGGAAAGGGGUCAACAGCCGUUCAGUACCAAGUCUCAGGGGAAACUUUGAGAUGGCCUUGCAAAGGGUAUGGUAAUAAGCUGACGGACAUGGUCCUAACCACGCAGCCAAGUCCUAAGUCAACAGAUCUUCUGUUGAUAUGGAUGCAGUUCACAGACUAAAUGUCGGUCGGGGAAGAUGUAUUCUUCUCAUAAGAUAUAGUCGGACCUCUCCUUAAUGGGAGCUAGCGGAUGAAGUGAUGCAACACUGGAGCCGCUGGGAACUAAUUUGUAUGCGAAAGUAUAUUGAUUAGUUUUGGAGUACUCG
+
+>  <Polymer Entity Sequence Length>  (5) 
+405
+
+>  <Molecular Weight (Entity)>  (5) 
+130.735
+
+>  <Ligand ID>  (5) 
+SPD
+
+>  <Ligand Name>  (5) 
+SPERMIDINE
+
+>  <SMILES>  (5) 
+C(CCNCCCN)CN
+
+>  <ROMol>  (5) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b336165e0>
+
+>  <QED>  (5) 
+0.429544
+
+>  <MW>  (5) 
+145.25
+
+>  <ALOGP>  (5) 
+-0.3363
+
+>  <HBA>  (5) 
+3
+
+>  <HBD>  (5) 
+3
+
+>  <PSA>  (5) 
+64.07
+
+>  <ROTB>  (5) 
+7
+
+>  <AROM>  (5) 
+0
+
+>  <ALERTS>  (5) 
+1
+
+>  <Num Ring>  (5) 
+0
+
+>  <Num Ar Ring>  (5) 
+0
+
+>  <Num ArHetcy>  (5) 
+0
+
+>  <Num Hetcy>  (5) 
+0
+
+>  <Num Hetatm>  (5) 
+3
+
+>  <Num Spiro>  (5) 
+0
+
+>  <Frac Sp3>  (5) 
+1.0
+
+>  <MR>  (5) 
+44.8295
+
+>  <NPR1>  (5) 
+0.056296
+
+>  <NPR2>  (5) 
+0.971275
+
+>  <Geometry>  (5) 
+Rod-like
+
+$$$$
+
+     RDKit          3D
+
+ 33 33  0  0  0  0  0  0  0  0999 V2000
+   -0.8430   -1.1776    1.2379 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6894   -1.0063    1.1824 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1765   -0.5302   -0.1351 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3424   -1.0466   -1.2365 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1312   -0.6019   -1.1052 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4960   -0.2572    0.2903 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9616   -0.2686    0.4876 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6281    0.9074   -0.2300 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9781    0.9738    0.1364 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3359    0.9414   -0.1913 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7217    1.3553    0.3131 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0230    0.7303   -0.7414 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7833    1.1715   -2.1583 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3413    1.2726   -0.2659 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0534   -0.9494   -0.6702 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1760   -0.9716    2.2795 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1135   -2.2320    0.9982 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0112   -0.3209    1.9978 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1649   -1.9862    1.4017 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7558   -0.7300   -2.2195 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3891   -2.1583   -1.2278 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2734    0.2982   -1.7408 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7816   -1.4107   -1.5089 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1972   -0.1641    1.5707 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4066   -1.2287    0.1408 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1153    1.8528    0.0572 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5540    0.7714   -1.3312 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3555    1.7562   -0.3437 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5589    1.4535    0.4193 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2227    1.3232   -1.2308 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8852    0.9875    1.3474 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7840    2.4641    0.3295 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7723   -1.2189   -1.2960 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  3 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  2  0
+ 12 15  1  0
+  6  1  1  0
+  1 16  1  0
+  1 17  1  0
+  2 18  1  0
+  2 19  1  0
+  4 20  1  0
+  4 21  1  0
+  5 22  1  0
+  5 23  1  0
+  7 24  1  0
+  7 25  1  0
+  8 26  1  0
+  8 27  1  0
+  9 28  1  0
+ 10 29  1  0
+ 10 30  1  0
+ 11 31  1  0
+ 11 32  1  0
+ 15 33  1  0
+M  END
+>  <PDB ID>  (6) 
+6T3N
+
+>  <Structure Title>  (6) 
+Structure of Oceanobacillus iheyensis group II intron G-mutant (C289G/C358G/G385C) in the presence of Na+, Mg2+ and 5'-exon
+
+>  <Sequence>  (6) 
+GGGGUUAUGUGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGGAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACGGCCGUAUACCGAACGGUACGUACGGUCGUGUG
+
+>  <Polymer Entity Sequence Length>  (6) 
+398
+
+>  <Molecular Weight (Entity)>  (6) 
+129.28
+
+>  <Ligand ID>  (6) 
+EPE
+
+>  <Ligand Name>  (6) 
+4-(2-HYDROXYETHYL)-1-PIPERAZINE ETHANESULFONIC ACID
+
+>  <SMILES>  (6) 
+C1CN(CCN1CCO)CCS(=O)(=O)O
+
+>  <ROMol>  (6) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b33616880>
+
+>  <QED>  (6) 
+0.566458
+
+>  <MW>  (6) 
+238.309
+
+>  <ALOGP>  (6) 
+-1.5159
+
+>  <HBA>  (6) 
+6
+
+>  <HBD>  (6) 
+2
+
+>  <PSA>  (6) 
+81.08
+
+>  <ROTB>  (6) 
+5
+
+>  <AROM>  (6) 
+0
+
+>  <ALERTS>  (6) 
+1
+
+>  <Num Ring>  (6) 
+1
+
+>  <Num Ar Ring>  (6) 
+0
+
+>  <Num ArHetcy>  (6) 
+0
+
+>  <Num Hetcy>  (6) 
+1
+
+>  <Num Hetatm>  (6) 
+7
+
+>  <Num Spiro>  (6) 
+0
+
+>  <Frac Sp3>  (6) 
+1.0
+
+>  <MR>  (6) 
+56.3814
+
+>  <NPR1>  (6) 
+0.148055
+
+>  <NPR2>  (6) 
+0.965845
+
+>  <Geometry>  (6) 
+Rod-like
+
+$$$$
+
+     RDKit          3D
+
+ 40 39  0  0  0  0  0  0  0  0999 V2000
+    0.9496   -1.8140    0.4436 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4489   -2.0534    1.0346 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4775   -1.0190    0.5620 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8103   -1.3870    1.0582 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7807   -0.2886    0.9253 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1838   -0.0318   -0.5395 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3178    0.9941   -0.6465 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8837    2.3020   -0.1629 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6236   -0.5479    1.0092 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0471   -0.4607    0.6480 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2454   -0.1999   -0.7845 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6889    0.2463   -1.0554 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9609    1.7009   -0.6474 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9501    1.8524    0.8056 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8736   -1.7459   -0.6628 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5786   -2.6979    0.6860 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3975   -2.0509    2.1454 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7880   -3.0639    0.7172 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4788   -0.9870   -0.5499 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1882   -0.0195    0.9527 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1562   -2.2206    0.5267 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6887   -0.5635    1.5045 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3760    0.6407    1.3835 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3111    0.3359   -1.1199 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5281   -0.9833   -0.9994 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6379    1.0756   -1.7093 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1920    0.6485   -0.0519 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7086    2.9437   -0.1980 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1812    2.6837   -0.8375 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0904    0.3642    0.6646 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5531   -0.5646    2.1183 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5269   -1.3555    0.9046 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5448    0.5837   -1.1507 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0547   -1.1301   -1.3642 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8779    0.1576   -2.1475 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4039   -0.4325   -0.5409 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9651    1.9843   -1.0336 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2160    2.3837   -1.1146 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9580    1.9661    1.1157 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4264    2.7544    1.0361 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  1  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+  1 15  1  0
+  1 16  1  0
+  2 17  1  0
+  2 18  1  0
+  3 19  1  0
+  3 20  1  0
+  4 21  1  0
+  5 22  1  0
+  5 23  1  0
+  6 24  1  0
+  6 25  1  0
+  7 26  1  0
+  7 27  1  0
+  8 28  1  0
+  8 29  1  0
+  9 30  1  0
+  9 31  1  0
+ 10 32  1  0
+ 11 33  1  0
+ 11 34  1  0
+ 12 35  1  0
+ 12 36  1  0
+ 13 37  1  0
+ 13 38  1  0
+ 14 39  1  0
+ 14 40  1  0
+M  END
+>  <PDB ID>  (7) 
+4FAU
+
+>  <Structure Title>  (7) 
+Structure of Oceanobacillus iheyensis group II intron in the presence of Li+, Mg2+ and 5'-exon
+
+>  <Sequence>  (7) 
+GGGGUUAUGUGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGCAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACCGCCGUAUACCGAACGGUACGUACGGUGGUGUG
+
+>  <Polymer Entity Sequence Length>  (7) 
+398
+
+>  <Molecular Weight (Entity)>  (7) 
+129.24
+
+>  <Ligand ID>  (7) 
+SPM
+
+>  <Ligand Name>  (7) 
+SPERMINE
+
+>  <SMILES>  (7) 
+C(CCNCCCN)CNCCCN
+
+>  <ROMol>  (7) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b33616a40>
+
+>  <QED>  (7) 
+0.345281
+
+>  <MW>  (7) 
+202.346
+
+>  <ALOGP>  (7) 
+-0.3566
+
+>  <HBA>  (7) 
+4
+
+>  <HBD>  (7) 
+4
+
+>  <PSA>  (7) 
+76.1
+
+>  <ROTB>  (7) 
+11
+
+>  <AROM>  (7) 
+0
+
+>  <ALERTS>  (7) 
+1
+
+>  <Num Ring>  (7) 
+0
+
+>  <Num Ar Ring>  (7) 
+0
+
+>  <Num ArHetcy>  (7) 
+0
+
+>  <Num Hetcy>  (7) 
+0
+
+>  <Num Hetatm>  (7) 
+4
+
+>  <Num Spiro>  (7) 
+0
+
+>  <Frac Sp3>  (7) 
+1.0
+
+>  <MR>  (7) 
+62.3162
+
+>  <NPR1>  (7) 
+0.161112
+
+>  <NPR2>  (7) 
+0.903596
+
+>  <Geometry>  (7) 
+Rod-like
+
+$$$$
+
+     RDKit          3D
+
+ 33 33  0  0  0  0  0  0  0  0999 V2000
+   -1.0639   -0.5751   -1.3065 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4725   -0.4935   -1.4108 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0544    0.3864   -0.3692 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2286    1.5950   -0.2041 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1660    1.2134    0.3298 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5049   -0.2030    0.0510 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9539   -0.4586    0.2087 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3723   -0.4684    1.6862 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5193    0.8351    2.1816 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4531    0.7513   -0.6819 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4130   -0.4285   -0.4773 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3605   -1.0552    1.1976 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4772   -2.0422    1.3873 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5379    0.0745    2.1743 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8945   -1.8316    1.4812 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5282    0.1023   -2.0605 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3751   -1.6156   -1.5499 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7422   -0.1453   -2.4333 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8807   -1.5183   -1.2807 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1276    2.1277   -1.1778 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6997    2.2981    0.5187 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1598    1.3649    1.4300 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9189    1.9062   -0.1099 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5623    0.2749   -0.3672 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2014   -1.4671   -0.1916 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6072   -1.0031    2.2884 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3318   -1.0231    1.7998 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3659    1.1900    1.8035 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5430    1.1268   -1.7257 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7972    1.5726   -0.0145 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4480   -0.0859   -0.6884 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1848   -1.2508   -1.1859 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3159   -1.1539    1.9137 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  3 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  2  0
+ 12 15  1  0
+  6  1  1  0
+  1 16  1  0
+  1 17  1  0
+  2 18  1  0
+  2 19  1  0
+  4 20  1  0
+  4 21  1  0
+  5 22  1  0
+  5 23  1  0
+  7 24  1  0
+  7 25  1  0
+  8 26  1  0
+  8 27  1  0
+  9 28  1  0
+ 10 29  1  0
+ 10 30  1  0
+ 11 31  1  0
+ 11 32  1  0
+ 15 33  1  0
+M  END
+>  <PDB ID>  (8) 
+4FAU
+
+>  <Structure Title>  (8) 
+Structure of Oceanobacillus iheyensis group II intron in the presence of Li+, Mg2+ and 5'-exon
+
+>  <Sequence>  (8) 
+GGGGUUAUGUGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGCAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACCGCCGUAUACCGAACGGUACGUACGGUGGUGUG
+
+>  <Polymer Entity Sequence Length>  (8) 
+398
+
+>  <Molecular Weight (Entity)>  (8) 
+129.24
+
+>  <Ligand ID>  (8) 
+EPE
+
+>  <Ligand Name>  (8) 
+4-(2-HYDROXYETHYL)-1-PIPERAZINE ETHANESULFONIC ACID
+
+>  <SMILES>  (8) 
+C1CN(CCN1CCO)CCS(=O)(=O)O
+
+>  <ROMol>  (8) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b33616b20>
+
+>  <QED>  (8) 
+0.566458
+
+>  <MW>  (8) 
+238.309
+
+>  <ALOGP>  (8) 
+-1.5159
+
+>  <HBA>  (8) 
+6
+
+>  <HBD>  (8) 
+2
+
+>  <PSA>  (8) 
+81.08
+
+>  <ROTB>  (8) 
+5
+
+>  <AROM>  (8) 
+0
+
+>  <ALERTS>  (8) 
+1
+
+>  <Num Ring>  (8) 
+1
+
+>  <Num Ar Ring>  (8) 
+0
+
+>  <Num ArHetcy>  (8) 
+0
+
+>  <Num Hetcy>  (8) 
+1
+
+>  <Num Hetatm>  (8) 
+7
+
+>  <Num Spiro>  (8) 
+0
+
+>  <Frac Sp3>  (8) 
+1.0
+
+>  <MR>  (8) 
+56.3814
+
+>  <NPR1>  (8) 
+0.257789
+
+>  <NPR2>  (8) 
+0.921585
+
+>  <Geometry>  (8) 
+Rod-like
+
+$$$$
+
+     RDKit          3D
+
+ 33 33  0  0  0  0  0  0  0  0999 V2000
+   -0.8536   -1.1753    0.7948 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4370   -1.3575   -0.0252 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0077   -0.0718   -0.4836 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0109    0.7598   -1.1547 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2526    0.9485   -0.2777 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8356   -0.3666    0.0487 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0968   -0.2195    0.8122 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3013   -0.3941   -0.1166 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3615    0.6345   -1.0666 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7400    0.6537    0.5804 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2105    0.2263    0.6113 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0646    0.6719   -0.8961 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8902    2.1383   -1.1766 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5130   -0.1218   -2.0468 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7014    0.3267   -0.7307 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2738   -2.1874    0.9864 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6301   -0.7127    1.7816 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2089   -1.9834   -0.9155 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1792   -1.9235    0.5779 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3116    0.2664   -2.1050 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4107    1.7498   -1.4360 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9837    1.5623   -0.8455 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9813    1.5062    0.6475 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1611    0.7630    1.3335 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1879   -0.9972    1.6047 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2389   -0.4152    0.4842 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2191   -1.3672   -0.6460 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6840    1.4430   -0.5891 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7083    1.7545    0.4218 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2938    0.4717    1.5809 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7149    0.7315    1.4620 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2946   -0.8693    0.7668 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0090    0.8990    0.0170 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  3 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  2  0
+ 12 15  1  0
+  6  1  1  0
+  1 16  1  0
+  1 17  1  0
+  2 18  1  0
+  2 19  1  0
+  4 20  1  0
+  4 21  1  0
+  5 22  1  0
+  5 23  1  0
+  7 24  1  0
+  7 25  1  0
+  8 26  1  0
+  8 27  1  0
+  9 28  1  0
+ 10 29  1  0
+ 10 30  1  0
+ 11 31  1  0
+ 11 32  1  0
+ 15 33  1  0
+M  END
+>  <PDB ID>  (9) 
+6T3S
+
+>  <Structure Title>  (9) 
+Structure of Oceanobacillus iheyensis group II intron U-mutant (C289U/C358U/G385A) in the presence of Na+, Mg2+ and 5'-exon
+
+>  <Sequence>  (9) 
+GGGGUUAUGUGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGUAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACUGCCGUAUACCGAACGGUACGUACGGUAGUGUG
+
+>  <Polymer Entity Sequence Length>  (9) 
+398
+
+>  <Molecular Weight (Entity)>  (9) 
+129.225
+
+>  <Ligand ID>  (9) 
+EPE
+
+>  <Ligand Name>  (9) 
+4-(2-HYDROXYETHYL)-1-PIPERAZINE ETHANESULFONIC ACID
+
+>  <SMILES>  (9) 
+C1CN(CCN1CCO)CCS(=O)(=O)O
+
+>  <ROMol>  (9) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b33616dc0>
+
+>  <QED>  (9) 
+0.566458
+
+>  <MW>  (9) 
+238.309
+
+>  <ALOGP>  (9) 
+-1.5159
+
+>  <HBA>  (9) 
+6
+
+>  <HBD>  (9) 
+2
+
+>  <PSA>  (9) 
+81.08
+
+>  <ROTB>  (9) 
+5
+
+>  <AROM>  (9) 
+0
+
+>  <ALERTS>  (9) 
+1
+
+>  <Num Ring>  (9) 
+1
+
+>  <Num Ar Ring>  (9) 
+0
+
+>  <Num ArHetcy>  (9) 
+0
+
+>  <Num Hetcy>  (9) 
+1
+
+>  <Num Hetatm>  (9) 
+7
+
+>  <Num Spiro>  (9) 
+0
+
+>  <Frac Sp3>  (9) 
+1.0
+
+>  <MR>  (9) 
+56.3814
+
+>  <NPR1>  (9) 
+0.11885
+
+>  <NPR2>  (9) 
+0.960542
+
+>  <Geometry>  (9) 
+Rod-like
+
+$$$$
+
+     RDKit          3D
+
+ 29 28  0  0  0  0  0  0  0  0999 V2000
+    2.8891   -0.6073    0.0376 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3650   -0.5261   -0.1307 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6443   -1.0598    1.1126 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8118   -1.0140    0.9159 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3771    0.2633    1.3741 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8459    0.3812    0.9538 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9993    0.4544   -0.5696 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4087    0.5813   -0.9264 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6469   -0.2128   -1.2422 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5148    1.2098   -1.5565 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1697   -1.6530    0.2914 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2111    0.0419    0.8810 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0673    0.5292   -0.3007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0547   -1.1267   -1.0138 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9548   -2.1174    1.2698 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9536   -0.4880    2.0178 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2386   -1.7738    1.4971 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3166    0.3277    2.4841 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8129    1.1227    0.9498 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4172   -0.4884    1.3464 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2706    1.3033    1.4073 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5922   -0.4727   -1.0293 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4305    1.3245   -0.9683 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4769    0.5477   -1.9694 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7345    1.5329   -0.6390 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7247   -0.4429   -1.1007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2887   -0.8200   -2.1022 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7143    1.7757   -0.6998 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5339    1.4072   -1.8578 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  1  9  1  0
+  9 10  1  0
+  1 11  1  0
+  1 12  1  0
+  2 13  1  0
+  2 14  1  0
+  3 15  1  0
+  3 16  1  0
+  4 17  1  0
+  5 18  1  0
+  5 19  1  0
+  6 20  1  0
+  6 21  1  0
+  7 22  1  0
+  7 23  1  0
+  8 24  1  0
+  8 25  1  0
+  9 26  1  0
+  9 27  1  0
+ 10 28  1  0
+ 10 29  1  0
+M  END
+>  <PDB ID>  (10) 
+7XD5
+
+>  <Structure Title>  (10) 
+The Tet-S2 state of wild-type Tetrahymena group I intron with 30nt 3'/5'-exon
+
+>  <Sequence>  (10) 
+UUUGGAGGGAAAAGUUAUCAGGCAUGCACCUGGUAGCUAGUCUUUAAACCAAUAGAUUGCAUCGGUUUAAAAGGCAAGACCGUCAAAUUGCGGGAAAGGGGUCAACAGCCGUUCAGUACCAAGUCUCAGGGGAAACUUUGAGAUGGCCUUGCAAAGGGUAUGGUAAUAAGCUGACGGACAUGGUCCUAACCACGCAGCCAAGUCCUAAGUCAACAGAUCUUCUGUUGAUAUGGAUGCAGUUCACAGACUAAAUGUCGGUCGGGGAAGAUGUAUUCUUCUCAUAAGAUAUAGUCGGACCUCUCCUUAAUGGGAGCUAGCGGAUGAAGUGAUGCAACACUGGAGCCGCUGGGAACUAAUUUGUAUGCGAAAGUAUAUUGAUUAGUUUUGGAGUACUCGUAAG
+
+>  <Polymer Entity Sequence Length>  (10) 
+400
+
+>  <Molecular Weight (Entity)>  (10) 
+129.222
+
+>  <Ligand ID>  (10) 
+SPD
+
+>  <Ligand Name>  (10) 
+SPERMIDINE
+
+>  <SMILES>  (10) 
+C(CCNCCCN)CN
+
+>  <ROMol>  (10) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b33616ea0>
+
+>  <QED>  (10) 
+0.429544
+
+>  <MW>  (10) 
+145.25
+
+>  <ALOGP>  (10) 
+-0.3363
+
+>  <HBA>  (10) 
+3
+
+>  <HBD>  (10) 
+3
+
+>  <PSA>  (10) 
+64.07
+
+>  <ROTB>  (10) 
+7
+
+>  <AROM>  (10) 
+0
+
+>  <ALERTS>  (10) 
+1
+
+>  <Num Ring>  (10) 
+0
+
+>  <Num Ar Ring>  (10) 
+0
+
+>  <Num ArHetcy>  (10) 
+0
+
+>  <Num Hetcy>  (10) 
+0
+
+>  <Num Hetatm>  (10) 
+3
+
+>  <Num Spiro>  (10) 
+0
+
+>  <Frac Sp3>  (10) 
+1.0
+
+>  <MR>  (10) 
+44.8295
+
+>  <NPR1>  (10) 
+0.178847
+
+>  <NPR2>  (10) 
+0.891287
+
+>  <Geometry>  (10) 
+Rod-like
+
+$$$$
+
+     RDKit          3D
+
+ 40 39  0  0  0  0  0  0  0  0999 V2000
+   -0.0731    0.2212    0.2534 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3958   -1.1858    0.7811 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8578   -1.3066    1.2260 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7629   -1.1298    0.0839 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1617   -1.1632    0.5272 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1089   -0.8395   -0.6376 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1404    0.6525   -0.9972 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8779    1.0779   -1.5969 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3928    0.3470   -0.1738 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2785    0.2186    0.9920 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6834    0.0128    0.6063 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3133    1.2731   -0.0186 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8406    1.1573   -0.1653 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2331    0.1489   -1.1497 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2961    0.9798    1.0355 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7128    0.4402   -0.6289 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1852   -1.9420   -0.0066 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2537   -1.4119    1.6545 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0603   -0.5364    2.0037 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0109   -2.3110    1.6819 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6142   -1.9328   -0.5725 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3312   -0.4321    1.3494 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4078   -2.1781    0.9140 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8375   -1.4400   -1.5333 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1369   -1.1401   -0.3391 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9621    0.8122   -1.7301 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3689    1.2662   -0.0969 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2086    1.3023   -0.8256 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0495    1.9803   -2.0968 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6157   -0.4383   -0.9305 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5333    1.3418   -0.6512 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2016    1.0828    1.5786 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7619   -0.8475   -0.0932 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2521   -0.2603    1.5214 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0982    2.1487    0.6316 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8639    1.4720   -1.0148 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3033    0.9193    0.8173 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2414    2.1415   -0.4901 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9972   -0.8008   -0.7828 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6962    0.2999   -2.0345 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  1  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+  1 15  1  0
+  1 16  1  0
+  2 17  1  0
+  2 18  1  0
+  3 19  1  0
+  3 20  1  0
+  4 21  1  0
+  5 22  1  0
+  5 23  1  0
+  6 24  1  0
+  6 25  1  0
+  7 26  1  0
+  7 27  1  0
+  8 28  1  0
+  8 29  1  0
+  9 30  1  0
+  9 31  1  0
+ 10 32  1  0
+ 11 33  1  0
+ 11 34  1  0
+ 12 35  1  0
+ 12 36  1  0
+ 13 37  1  0
+ 13 38  1  0
+ 14 39  1  0
+ 14 40  1  0
+M  END
+>  <PDB ID>  (11) 
+4FAQ
+
+>  <Structure Title>  (11) 
+Structure of Oceanobacillus iheyensis group II intron in the presence of K+, Ca2+ and 5'-exon
+
+>  <Sequence>  (11) 
+GUUAUGUGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGCAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACCGCCGUAUACCGAACGGUACGUACGGUGGUGUGG
+
+>  <Polymer Entity Sequence Length>  (11) 
+396
+
+>  <Molecular Weight (Entity)>  (11) 
+128.549
+
+>  <Ligand ID>  (11) 
+SPM
+
+>  <Ligand Name>  (11) 
+SPERMINE
+
+>  <SMILES>  (11) 
+C(CCNCCCN)CNCCCN
+
+>  <ROMol>  (11) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b33617140>
+
+>  <QED>  (11) 
+0.345281
+
+>  <MW>  (11) 
+202.346
+
+>  <ALOGP>  (11) 
+-0.3566
+
+>  <HBA>  (11) 
+4
+
+>  <HBD>  (11) 
+4
+
+>  <PSA>  (11) 
+76.1
+
+>  <ROTB>  (11) 
+11
+
+>  <AROM>  (11) 
+0
+
+>  <ALERTS>  (11) 
+1
+
+>  <Num Ring>  (11) 
+0
+
+>  <Num Ar Ring>  (11) 
+0
+
+>  <Num ArHetcy>  (11) 
+0
+
+>  <Num Hetcy>  (11) 
+0
+
+>  <Num Hetatm>  (11) 
+4
+
+>  <Num Spiro>  (11) 
+0
+
+>  <Frac Sp3>  (11) 
+1.0
+
+>  <MR>  (11) 
+62.3162
+
+>  <NPR1>  (11) 
+0.093749
+
+>  <NPR2>  (11) 
+0.948541
+
+>  <Geometry>  (11) 
+Rod-like
+
+$$$$
+
+     RDKit          3D
+
+ 33 33  0  0  0  0  0  0  0  0999 V2000
+   -1.3458   -0.2943   -1.0989 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1856   -0.1722   -0.9739 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5276    0.5278    0.2744 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1089   -0.2418    1.4640 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2828   -0.8746    1.2644 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0291   -0.1566    0.2123 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4238   -0.6468    0.1496 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3176    0.2913   -0.6659 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2201    1.5973   -0.1689 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9319    0.9902    0.3413 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9786   -0.1086    0.0701 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6317    0.5286    0.2885 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8556    1.6857   -0.6445 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8150    0.9827    1.7096 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7359   -0.6910   -0.0564 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5879   -1.2678   -1.5827 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6990    0.5176   -1.7701 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5816    0.3832   -1.8531 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6315   -1.1927   -0.9775 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0668    0.4485    2.3347 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8330   -1.0479    1.7052 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8282   -0.8291    2.2333 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1703   -1.9487    0.9887 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4692   -1.6744   -0.2768 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8579   -0.6959    1.1735 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3708   -0.0597   -0.5883 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0260    0.2659   -1.7386 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8134    2.1530   -0.7381 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1217    1.4427    1.3397 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0696    1.8049   -0.4023 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8934   -0.4744   -0.9740 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8485   -0.9655    0.7599 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6252   -0.2774    0.0825 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  3 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  2  0
+ 12 15  1  0
+  6  1  1  0
+  1 16  1  0
+  1 17  1  0
+  2 18  1  0
+  2 19  1  0
+  4 20  1  0
+  4 21  1  0
+  5 22  1  0
+  5 23  1  0
+  7 24  1  0
+  7 25  1  0
+  8 26  1  0
+  8 27  1  0
+  9 28  1  0
+ 10 29  1  0
+ 10 30  1  0
+ 11 31  1  0
+ 11 32  1  0
+ 15 33  1  0
+M  END
+>  <PDB ID>  (12) 
+4FAQ
+
+>  <Structure Title>  (12) 
+Structure of Oceanobacillus iheyensis group II intron in the presence of K+, Ca2+ and 5'-exon
+
+>  <Sequence>  (12) 
+GUUAUGUGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGCAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACCGCCGUAUACCGAACGGUACGUACGGUGGUGUGG
+
+>  <Polymer Entity Sequence Length>  (12) 
+396
+
+>  <Molecular Weight (Entity)>  (12) 
+128.549
+
+>  <Ligand ID>  (12) 
+EPE
+
+>  <Ligand Name>  (12) 
+4-(2-HYDROXYETHYL)-1-PIPERAZINE ETHANESULFONIC ACID
+
+>  <SMILES>  (12) 
+C1CN(CCN1CCO)CCS(=O)(=O)O
+
+>  <ROMol>  (12) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b33617220>
+
+>  <QED>  (12) 
+0.566458
+
+>  <MW>  (12) 
+238.309
+
+>  <ALOGP>  (12) 
+-1.5159
+
+>  <HBA>  (12) 
+6
+
+>  <HBD>  (12) 
+2
+
+>  <PSA>  (12) 
+81.08
+
+>  <ROTB>  (12) 
+5
+
+>  <AROM>  (12) 
+0
+
+>  <ALERTS>  (12) 
+1
+
+>  <Num Ring>  (12) 
+1
+
+>  <Num Ar Ring>  (12) 
+0
+
+>  <Num ArHetcy>  (12) 
+0
+
+>  <Num Hetcy>  (12) 
+1
+
+>  <Num Hetatm>  (12) 
+7
+
+>  <Num Spiro>  (12) 
+0
+
+>  <Frac Sp3>  (12) 
+1.0
+
+>  <MR>  (12) 
+56.3814
+
+>  <NPR1>  (12) 
+0.103858
+
+>  <NPR2>  (12) 
+0.987552
+
+>  <Geometry>  (12) 
+Rod-like
+
+$$$$
+
+     RDKit          3D
+
+ 40 39  0  0  0  0  0  0  0  0999 V2000
+    0.6392   -0.9216   -0.5196 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4913   -0.4576    0.4096 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6727   -1.4322    0.3695 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7228   -0.9931    1.3016 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7094   -0.1001    0.6688 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8050   -0.8834   -0.0806 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8868    0.0371   -0.6583 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3651    0.8179   -1.7775 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8161    0.0589   -0.5192 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4551    0.0886    0.8035 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3122    1.2701    0.9968 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5178    1.3408    0.0370 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4930    0.1641    0.2083 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7165    0.3737   -0.5629 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9974   -1.9271   -0.2071 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2491   -1.0031   -1.5578 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8314    0.5530    0.0964 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1143   -0.3920    1.4536 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0561   -1.5262   -0.6705 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3093   -2.4379    0.6790 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2078   -1.8332    1.6963 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1876    0.5037    1.4696 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2057    0.6142   -0.0175 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2943   -1.5874    0.6273 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3608   -1.4836   -0.9027 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2890    0.7112    0.1311 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7252   -0.5981   -1.0204 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1809    1.2301   -2.2857 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8271    1.6276   -1.3927 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5484   -0.2755   -1.2867 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4455    1.0690   -0.8051 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0083   -0.7870    0.9480 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6851    1.2699    2.0439 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7025    2.1930    0.8819 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0597    2.2876    0.2511 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1730    1.3978   -1.0170 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0173   -0.7776   -0.1380 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7592    0.0458    1.2812 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1846    1.2461   -0.2252 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4625    0.5165   -1.5676 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  1  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+  1 15  1  0
+  1 16  1  0
+  2 17  1  0
+  2 18  1  0
+  3 19  1  0
+  3 20  1  0
+  4 21  1  0
+  5 22  1  0
+  5 23  1  0
+  6 24  1  0
+  6 25  1  0
+  7 26  1  0
+  7 27  1  0
+  8 28  1  0
+  8 29  1  0
+  9 30  1  0
+  9 31  1  0
+ 10 32  1  0
+ 11 33  1  0
+ 11 34  1  0
+ 12 35  1  0
+ 12 36  1  0
+ 13 37  1  0
+ 13 38  1  0
+ 14 39  1  0
+ 14 40  1  0
+M  END
+>  <PDB ID>  (13) 
+4E8M
+
+>  <Structure Title>  (13) 
+Structure of Oceanobacillus iheyensis group II intron in a ligand-free state in the presence of K+ and Mg2+
+
+>  <Sequence>  (13) 
+GGGGUGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGCAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACCGCCGUAUACCGAACGGUACGUACGGUGGUGUGG
+
+>  <Polymer Entity Sequence Length>  (13) 
+394
+
+>  <Molecular Weight (Entity)>  (13) 
+127.992
+
+>  <Ligand ID>  (13) 
+SPM
+
+>  <Ligand Name>  (13) 
+SPERMINE
+
+>  <SMILES>  (13) 
+C(CCNCCCN)CNCCCN
+
+>  <ROMol>  (13) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b336174c0>
+
+>  <QED>  (13) 
+0.345281
+
+>  <MW>  (13) 
+202.346
+
+>  <ALOGP>  (13) 
+-0.3566
+
+>  <HBA>  (13) 
+4
+
+>  <HBD>  (13) 
+4
+
+>  <PSA>  (13) 
+76.1
+
+>  <ROTB>  (13) 
+11
+
+>  <AROM>  (13) 
+0
+
+>  <ALERTS>  (13) 
+1
+
+>  <Num Ring>  (13) 
+0
+
+>  <Num Ar Ring>  (13) 
+0
+
+>  <Num ArHetcy>  (13) 
+0
+
+>  <Num Hetcy>  (13) 
+0
+
+>  <Num Hetatm>  (13) 
+4
+
+>  <Num Spiro>  (13) 
+0
+
+>  <Frac Sp3>  (13) 
+1.0
+
+>  <MR>  (13) 
+62.3162
+
+>  <NPR1>  (13) 
+0.078101
+
+>  <NPR2>  (13) 
+0.976596
+
+>  <Geometry>  (13) 
+Rod-like
+
+$$$$
+
+     RDKit          3D
+
+ 33 33  0  0  0  0  0  0  0  0999 V2000
+    1.3648   -0.6736    0.5845 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0056   -0.4635    1.2675 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0486   -0.0668    0.2998 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5151    0.6865   -0.8645 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7581    1.4668   -0.5057 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8558    0.5702   -0.0621 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7932    0.2756   -1.1694 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0927   -0.3639   -0.6618 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6684    0.4172    0.3504 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8592   -1.2296   -0.1286 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1731   -0.8014   -0.7975 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2233    0.1148    0.3239 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5405    0.3941   -0.3438 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4668   -0.6966    1.5650 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4959    1.5697    0.7498 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2595   -1.5027   -0.1517 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0977   -0.9918    1.3564 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2645   -1.3823    1.8336 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1085    0.3414    2.0269 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2795    0.0101   -1.7171 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2813    1.4132   -1.2079 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5228    2.1726    0.3200 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0548    2.0990   -1.3719 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3169   -0.3884   -1.9253 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0815    1.2173   -1.6873 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8896   -1.3794   -0.2629 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8057   -0.4828   -1.5090 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0699    1.2083   -0.0954 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2801   -1.8765   -0.8250 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1318   -1.8599    0.7466 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7210   -1.7115   -1.1216 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9772   -0.1914   -1.7031 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4877    2.1050   -0.0835 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  3 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  2  0
+ 12 15  1  0
+  6  1  1  0
+  1 16  1  0
+  1 17  1  0
+  2 18  1  0
+  2 19  1  0
+  4 20  1  0
+  4 21  1  0
+  5 22  1  0
+  5 23  1  0
+  7 24  1  0
+  7 25  1  0
+  8 26  1  0
+  8 27  1  0
+  9 28  1  0
+ 10 29  1  0
+ 10 30  1  0
+ 11 31  1  0
+ 11 32  1  0
+ 15 33  1  0
+M  END
+>  <PDB ID>  (14) 
+4E8M
+
+>  <Structure Title>  (14) 
+Structure of Oceanobacillus iheyensis group II intron in a ligand-free state in the presence of K+ and Mg2+
+
+>  <Sequence>  (14) 
+GGGGUGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGCAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACCGCCGUAUACCGAACGGUACGUACGGUGGUGUGG
+
+>  <Polymer Entity Sequence Length>  (14) 
+394
+
+>  <Molecular Weight (Entity)>  (14) 
+127.992
+
+>  <Ligand ID>  (14) 
+EPE
+
+>  <Ligand Name>  (14) 
+4-(2-HYDROXYETHYL)-1-PIPERAZINE ETHANESULFONIC ACID
+
+>  <SMILES>  (14) 
+C1CN(CCN1CCO)CCS(=O)(=O)O
+
+>  <ROMol>  (14) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b336175a0>
+
+>  <QED>  (14) 
+0.566458
+
+>  <MW>  (14) 
+238.309
+
+>  <ALOGP>  (14) 
+-1.5159
+
+>  <HBA>  (14) 
+6
+
+>  <HBD>  (14) 
+2
+
+>  <PSA>  (14) 
+81.08
+
+>  <ROTB>  (14) 
+5
+
+>  <AROM>  (14) 
+0
+
+>  <ALERTS>  (14) 
+1
+
+>  <Num Ring>  (14) 
+1
+
+>  <Num Ar Ring>  (14) 
+0
+
+>  <Num ArHetcy>  (14) 
+0
+
+>  <Num Hetcy>  (14) 
+1
+
+>  <Num Hetatm>  (14) 
+7
+
+>  <Num Spiro>  (14) 
+0
+
+>  <Frac Sp3>  (14) 
+1.0
+
+>  <MR>  (14) 
+56.3814
+
+>  <NPR1>  (14) 
+0.114392
+
+>  <NPR2>  (14) 
+0.981782
+
+>  <Geometry>  (14) 
+Rod-like
+
+$$$$
+
+     RDKit          3D
+
+ 33 33  0  0  0  0  0  0  0  0999 V2000
+   -0.9703    0.6640    1.1362 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1081   -0.4301    1.0572 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7744   -0.4813   -0.2715 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0341    0.1218   -1.3549 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5281   -0.1452   -1.1396 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0279    0.4864    0.1089 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1986   -0.2360    0.6560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4234   -0.1147   -0.2597 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7821    1.2303   -0.4288 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1320    0.1029   -0.2436 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1393   -0.9168    0.2959 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7973   -0.2542    0.2707 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7455   -1.2806    0.8225 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1986    0.0733   -1.1407 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8776    1.1319    1.2205 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4866    1.6521    0.9791 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3873    0.6919    2.1672 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8337   -0.2717    1.8851 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3705   -1.4144    1.2471 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1276    1.2231   -1.4118 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2732   -0.3220   -2.3267 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0864    0.2729   -2.0042 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6841   -1.2482   -1.1311 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9578   -1.3099    0.8222 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4923    0.1951    1.6389 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2414   -0.6054   -1.2423 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2744   -0.6471    0.2153 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2038    1.5921   -1.1498 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1492    1.0319    0.3698 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4581    0.3776   -1.2729 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8904   -1.1969    1.3401 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1115   -1.8338   -0.3306 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5328    1.8610    0.6456 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  3 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  2  0
+ 12 15  1  0
+  6  1  1  0
+  1 16  1  0
+  1 17  1  0
+  2 18  1  0
+  2 19  1  0
+  4 20  1  0
+  4 21  1  0
+  5 22  1  0
+  5 23  1  0
+  7 24  1  0
+  7 25  1  0
+  8 26  1  0
+  8 27  1  0
+  9 28  1  0
+ 10 29  1  0
+ 10 30  1  0
+ 11 31  1  0
+ 11 32  1  0
+ 15 33  1  0
+M  END
+>  <PDB ID>  (15) 
+4FAX
+
+>  <Structure Title>  (15) 
+Structure of Oceanobacillus iheyensis group II intron in a ligand-free state in the presence of Na+ and Mg2+
+
+>  <Sequence>  (15) 
+GGGGGUGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGCAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACCGCCGUAUACCGAACGGUACGUACGGUGGUGUG
+
+>  <Polymer Entity Sequence Length>  (15) 
+394
+
+>  <Molecular Weight (Entity)>  (15) 
+127.992
+
+>  <Ligand ID>  (15) 
+EPE
+
+>  <Ligand Name>  (15) 
+4-(2-HYDROXYETHYL)-1-PIPERAZINE ETHANESULFONIC ACID
+
+>  <SMILES>  (15) 
+C1CN(CCN1CCO)CCS(=O)(=O)O
+
+>  <ROMol>  (15) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b33617920>
+
+>  <QED>  (15) 
+0.566458
+
+>  <MW>  (15) 
+238.309
+
+>  <ALOGP>  (15) 
+-1.5159
+
+>  <HBA>  (15) 
+6
+
+>  <HBD>  (15) 
+2
+
+>  <PSA>  (15) 
+81.08
+
+>  <ROTB>  (15) 
+5
+
+>  <AROM>  (15) 
+0
+
+>  <ALERTS>  (15) 
+1
+
+>  <Num Ring>  (15) 
+1
+
+>  <Num Ar Ring>  (15) 
+0
+
+>  <Num ArHetcy>  (15) 
+0
+
+>  <Num Hetcy>  (15) 
+1
+
+>  <Num Hetatm>  (15) 
+7
+
+>  <Num Spiro>  (15) 
+0
+
+>  <Frac Sp3>  (15) 
+1.0
+
+>  <MR>  (15) 
+56.3814
+
+>  <NPR1>  (15) 
+0.08606
+
+>  <NPR2>  (15) 
+0.982977
+
+>  <Geometry>  (15) 
+Rod-like
+
+$$$$
+
+     RDKit          3D
+
+ 33 33  0  0  0  0  0  0  0  0999 V2000
+    1.5585   -0.7391    0.4156 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2574   -1.5504    0.5793 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8678   -0.8414   -0.0555 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6470   -0.7416   -1.5177 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8063   -0.3531   -1.8559 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4617    0.2526   -0.6823 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7931    0.7805   -1.0538 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3440    1.7263    0.0164 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4093    2.7323    0.2932 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1493   -1.5120    0.2560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3488   -0.5868    0.0130 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2592    0.8962    1.0101 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5210    1.6928    0.8331 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1148    0.5219    2.4583 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9414    1.8330    0.5481 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4023   -1.4467    0.2494 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7474   -0.1992    1.3681 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3821   -2.5597    0.1232 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0682   -1.6918    1.6669 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3172    0.0426   -1.9294 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8881   -1.7005   -2.0301 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7881    0.3636   -2.7074 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3693   -1.2564   -2.1867 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5173   -0.0456   -1.2350 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7221    1.3682   -1.9966 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5859    1.1613    0.9430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2852    2.1850   -0.3607 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8197    3.3039    0.9929 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1816   -1.8154    1.3264 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2700   -2.4426   -0.3428 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4223   -0.3080   -1.0579 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2795   -1.1311    0.2795 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1100    2.0612   -0.4009 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  3 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  2  0
+ 12 15  1  0
+  6  1  1  0
+  1 16  1  0
+  1 17  1  0
+  2 18  1  0
+  2 19  1  0
+  4 20  1  0
+  4 21  1  0
+  5 22  1  0
+  5 23  1  0
+  7 24  1  0
+  7 25  1  0
+  8 26  1  0
+  8 27  1  0
+  9 28  1  0
+ 10 29  1  0
+ 10 30  1  0
+ 11 31  1  0
+ 11 32  1  0
+ 15 33  1  0
+M  END
+>  <PDB ID>  (16) 
+4FB0
+
+>  <Structure Title>  (16) 
+Structure of Oceanobacillus iheyensis group II intron C377G mutant in a ligand-free state in the presence of K+ and Mg2+
+
+>  <Sequence>  (16) 
+GGGGUGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGCAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACCGCCGUAUACCGAACGGUAGGUACGGUGGUGUG
+
+>  <Polymer Entity Sequence Length>  (16) 
+393
+
+>  <Molecular Weight (Entity)>  (16) 
+127.687
+
+>  <Ligand ID>  (16) 
+EPE
+
+>  <Ligand Name>  (16) 
+4-(2-HYDROXYETHYL)-1-PIPERAZINE ETHANESULFONIC ACID
+
+>  <SMILES>  (16) 
+C1CN(CCN1CCO)CCS(=O)(=O)O
+
+>  <ROMol>  (16) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b33617bc0>
+
+>  <QED>  (16) 
+0.566458
+
+>  <MW>  (16) 
+238.309
+
+>  <ALOGP>  (16) 
+-1.5159
+
+>  <HBA>  (16) 
+6
+
+>  <HBD>  (16) 
+2
+
+>  <PSA>  (16) 
+81.08
+
+>  <ROTB>  (16) 
+5
+
+>  <AROM>  (16) 
+0
+
+>  <ALERTS>  (16) 
+1
+
+>  <Num Ring>  (16) 
+1
+
+>  <Num Ar Ring>  (16) 
+0
+
+>  <Num ArHetcy>  (16) 
+0
+
+>  <Num Hetcy>  (16) 
+1
+
+>  <Num Hetatm>  (16) 
+7
+
+>  <Num Spiro>  (16) 
+0
+
+>  <Frac Sp3>  (16) 
+1.0
+
+>  <MR>  (16) 
+56.3814
+
+>  <NPR1>  (16) 
+0.296307
+
+>  <NPR2>  (16) 
+0.864703
+
+>  <Geometry>  (16) 
+Rod-like
+
+$$$$
+
+     RDKit          3D
+
+ 40 39  0  0  0  0  0  0  0  0999 V2000
+   -0.6536   -0.9743    0.4977 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3470   -2.1036    0.2140 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6159   -1.5836   -0.4716 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3496   -0.6742    0.4177 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5133   -0.1105   -0.2756 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2180    0.9062    0.6302 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4052    1.5754   -0.0716 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4526    0.6012   -0.3660 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9308   -1.5199    1.1464 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8462   -0.4184    1.4802 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7577   -0.1201    0.3671 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5632    1.1463    0.6808 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6349    1.4473   -0.3817 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0566    1.8463   -1.6648 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9062   -0.4633   -0.4557 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1922   -0.2297    1.1825 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6223   -2.6130    1.1635 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1297   -2.8555   -0.4524 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2572   -2.4532   -0.7411 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3280   -1.0598   -1.4107 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7007   -1.2352    1.2301 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2238   -0.9226   -0.5511 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1844    0.4088   -1.2036 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4899    1.6936    0.9236 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5708    0.4039    1.5575 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8132    2.3763    0.5847 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0614    2.0499   -1.0170 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8800    0.2967    0.5390 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2050    1.0945   -0.8987 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6465   -2.0501    2.0834 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4170   -2.2687    0.4797 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4316   -0.7274    2.2922 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4542   -0.9744    0.2065 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1763    0.0460   -0.5642 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8741    2.0131    0.7807 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0770    1.0117    1.6576 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2763    2.2761   -0.0125 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2902    0.5607   -0.5269 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3313    2.5830   -1.5060 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5929    1.0204   -2.1063 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  1  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+  1 15  1  0
+  1 16  1  0
+  2 17  1  0
+  2 18  1  0
+  3 19  1  0
+  3 20  1  0
+  4 21  1  0
+  5 22  1  0
+  5 23  1  0
+  6 24  1  0
+  6 25  1  0
+  7 26  1  0
+  7 27  1  0
+  8 28  1  0
+  8 29  1  0
+  9 30  1  0
+  9 31  1  0
+ 10 32  1  0
+ 11 33  1  0
+ 11 34  1  0
+ 12 35  1  0
+ 12 36  1  0
+ 13 37  1  0
+ 13 38  1  0
+ 14 39  1  0
+ 14 40  1  0
+M  END
+>  <PDB ID>  (17) 
+4FB0
+
+>  <Structure Title>  (17) 
+Structure of Oceanobacillus iheyensis group II intron C377G mutant in a ligand-free state in the presence of K+ and Mg2+
+
+>  <Sequence>  (17) 
+GGGGUGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGCAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACCGCCGUAUACCGAACGGUAGGUACGGUGGUGUG
+
+>  <Polymer Entity Sequence Length>  (17) 
+393
+
+>  <Molecular Weight (Entity)>  (17) 
+127.687
+
+>  <Ligand ID>  (17) 
+SPM
+
+>  <Ligand Name>  (17) 
+SPERMINE
+
+>  <SMILES>  (17) 
+C(CCNCCCN)CNCCCN
+
+>  <ROMol>  (17) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b33617ca0>
+
+>  <QED>  (17) 
+0.345281
+
+>  <MW>  (17) 
+202.346
+
+>  <ALOGP>  (17) 
+-0.3566
+
+>  <HBA>  (17) 
+4
+
+>  <HBD>  (17) 
+4
+
+>  <PSA>  (17) 
+76.1
+
+>  <ROTB>  (17) 
+11
+
+>  <AROM>  (17) 
+0
+
+>  <ALERTS>  (17) 
+1
+
+>  <Num Ring>  (17) 
+0
+
+>  <Num Ar Ring>  (17) 
+0
+
+>  <Num ArHetcy>  (17) 
+0
+
+>  <Num Hetcy>  (17) 
+0
+
+>  <Num Hetatm>  (17) 
+4
+
+>  <Num Spiro>  (17) 
+0
+
+>  <Frac Sp3>  (17) 
+1.0
+
+>  <MR>  (17) 
+62.3162
+
+>  <NPR1>  (17) 
+0.133307
+
+>  <NPR2>  (17) 
+0.928464
+
+>  <Geometry>  (17) 
+Rod-like
+
+$$$$
+
+     RDKit          3D
+
+ 40 39  0  0  0  0  0  0  0  0999 V2000
+    0.3177   -0.8358   -1.7500 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0854   -0.5100   -1.2142 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6013   -1.5633   -0.2227 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0152   -1.3146    0.0922 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1606   -0.3911    1.2266 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6228    0.0468    1.3809 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1742    0.7713    0.1446 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4935    2.0473   -0.0626 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4099   -0.6781   -0.6849 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7328   -0.8457   -1.3017 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8125   -0.5459   -0.3496 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1724    0.9451   -0.4026 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3674    1.2786    0.4977 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0375    1.0574    1.9031 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3363   -1.8694   -2.1598 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5383   -0.1386   -2.5878 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0785    0.4953   -0.7418 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7840   -0.4671   -2.0784 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5098   -2.5664   -0.6964 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9809   -1.5762    0.7012 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4481   -2.2268    0.3710 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5228    0.5088    1.0942 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8390   -0.8935    2.1668 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2489   -0.8503    1.5794 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7094    0.7159    2.2646 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2576    0.9612    0.3111 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0813    0.1317   -0.7613 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5821    1.8598   -0.5400 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0627    2.6056   -0.7392 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3234    0.3336   -0.2323 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2688   -1.4397    0.1137 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8244   -1.8515   -1.5804 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5368   -0.8468    0.6869 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7155   -1.1327   -0.6320 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3018    1.5635   -0.0971 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4314    1.2162   -1.4493 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2371    0.6453    0.2151 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6548    2.3427    0.3440 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3381    1.7795    2.1926 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9009    1.2382    2.4646 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  1  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+  1 15  1  0
+  1 16  1  0
+  2 17  1  0
+  2 18  1  0
+  3 19  1  0
+  3 20  1  0
+  4 21  1  0
+  5 22  1  0
+  5 23  1  0
+  6 24  1  0
+  6 25  1  0
+  7 26  1  0
+  7 27  1  0
+  8 28  1  0
+  8 29  1  0
+  9 30  1  0
+  9 31  1  0
+ 10 32  1  0
+ 11 33  1  0
+ 11 34  1  0
+ 12 35  1  0
+ 12 36  1  0
+ 13 37  1  0
+ 13 38  1  0
+ 14 39  1  0
+ 14 40  1  0
+M  END
+>  <PDB ID>  (18) 
+4E8N
+
+>  <Structure Title>  (18) 
+Structure of Oceanobacillus iheyensis group II intron in a ligand-free state in the presence of NH4+ and Mg2+
+
+>  <Sequence>  (18) 
+GGGGUGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGCAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACCGCCGUAUACCGAACGGUACGUACGGUGGUGUG
+
+>  <Polymer Entity Sequence Length>  (18) 
+393
+
+>  <Molecular Weight (Entity)>  (18) 
+127.647
+
+>  <Ligand ID>  (18) 
+SPM
+
+>  <Ligand Name>  (18) 
+SPERMINE
+
+>  <SMILES>  (18) 
+C(CCNCCCN)CNCCCN
+
+>  <ROMol>  (18) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b3364c0b0>
+
+>  <QED>  (18) 
+0.345281
+
+>  <MW>  (18) 
+202.346
+
+>  <ALOGP>  (18) 
+-0.3566
+
+>  <HBA>  (18) 
+4
+
+>  <HBD>  (18) 
+4
+
+>  <PSA>  (18) 
+76.1
+
+>  <ROTB>  (18) 
+11
+
+>  <AROM>  (18) 
+0
+
+>  <ALERTS>  (18) 
+1
+
+>  <Num Ring>  (18) 
+0
+
+>  <Num Ar Ring>  (18) 
+0
+
+>  <Num ArHetcy>  (18) 
+0
+
+>  <Num Hetcy>  (18) 
+0
+
+>  <Num Hetatm>  (18) 
+4
+
+>  <Num Spiro>  (18) 
+0
+
+>  <Frac Sp3>  (18) 
+1.0
+
+>  <MR>  (18) 
+62.3162
+
+>  <NPR1>  (18) 
+0.155441
+
+>  <NPR2>  (18) 
+0.942808
+
+>  <Geometry>  (18) 
+Rod-like
+
+$$$$
+
+     RDKit          3D
+
+ 33 33  0  0  0  0  0  0  0  0999 V2000
+   -1.1689    1.2711   -1.0929 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2661    1.0959   -0.5739 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8418   -0.2154   -0.9693 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1872   -1.2724   -1.1420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4079   -1.0421   -0.2388 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0893    0.2412   -0.5474 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8420    0.7538    0.6200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0166   -0.1587    0.9861 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8407   -0.3483   -0.1306 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9074   -0.6470   -0.0371 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1242    0.2848   -0.1078 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4710   -0.3461    0.8815 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0298   -0.5067    2.3094 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9103   -1.6793    0.3451 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7645    0.7253    0.8131 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1604    1.1861   -2.2010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5138    2.3050   -0.8691 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2531    1.2193    0.5329 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8924    1.9076   -1.0018 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2190   -2.2910   -0.9530 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5219   -1.2703   -2.2018 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1229   -1.8771   -0.3994 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0684   -1.0798    0.8213 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2754    1.7519    0.3867 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1717    0.8772    1.5000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6006    0.3195    1.8038 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6432   -1.1382    1.3578 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5740   -0.9469    0.1674 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2597   -1.6643   -0.3177 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5216   -0.6968    1.0060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8617    1.2936    0.2730 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4660    0.3771   -1.1606 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4163    1.5707    1.1942 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  3 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  2  0
+ 12 15  1  0
+  6  1  1  0
+  1 16  1  0
+  1 17  1  0
+  2 18  1  0
+  2 19  1  0
+  4 20  1  0
+  4 21  1  0
+  5 22  1  0
+  5 23  1  0
+  7 24  1  0
+  7 25  1  0
+  8 26  1  0
+  8 27  1  0
+  9 28  1  0
+ 10 29  1  0
+ 10 30  1  0
+ 11 31  1  0
+ 11 32  1  0
+ 15 33  1  0
+M  END
+>  <PDB ID>  (19) 
+4E8N
+
+>  <Structure Title>  (19) 
+Structure of Oceanobacillus iheyensis group II intron in a ligand-free state in the presence of NH4+ and Mg2+
+
+>  <Sequence>  (19) 
+GGGGUGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGCAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACCGCCGUAUACCGAACGGUACGUACGGUGGUGUG
+
+>  <Polymer Entity Sequence Length>  (19) 
+393
+
+>  <Molecular Weight (Entity)>  (19) 
+127.647
+
+>  <Ligand ID>  (19) 
+EPE
+
+>  <Ligand Name>  (19) 
+4-(2-HYDROXYETHYL)-1-PIPERAZINE ETHANESULFONIC ACID
+
+>  <SMILES>  (19) 
+C1CN(CCN1CCO)CCS(=O)(=O)O
+
+>  <ROMol>  (19) 
+<rdkit.Chem.rdchem.Mol object at 0x7f4b3364c190>
+
+>  <QED>  (19) 
+0.566458
+
+>  <MW>  (19) 
+238.309
+
+>  <ALOGP>  (19) 
+-1.5159
+
+>  <HBA>  (19) 
+6
+
+>  <HBD>  (19) 
+2
+
+>  <PSA>  (19) 
+81.08
+
+>  <ROTB>  (19) 
+5
+
+>  <AROM>  (19) 
+0
+
+>  <ALERTS>  (19) 
+1
+
+>  <Num Ring>  (19) 
+1
+
+>  <Num Ar Ring>  (19) 
+0
+
+>  <Num ArHetcy>  (19) 
+0
+
+>  <Num Hetcy>  (19) 
+1
+
+>  <Num Hetatm>  (19) 
+7
+
+>  <Num Spiro>  (19) 
+0
+
+>  <Frac Sp3>  (19) 
+1.0
+
+>  <MR>  (19) 
+56.3814
+
+>  <NPR1>  (19) 
+0.11955
+
+>  <NPR2>  (19) 
+0.994718
+
+>  <Geometry>  (19) 
+Rod-like
+
+$$$$

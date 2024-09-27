@@ -16,3 +16,4 @@ dependencies:
   - pandas=2.1
   - pyarrow
   - jupyter
+  - openpyxl
