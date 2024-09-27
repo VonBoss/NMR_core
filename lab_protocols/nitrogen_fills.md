@@ -115,7 +115,7 @@ Notes:
 16. `apk` Automatic phase correction.
 17. Check spectrum for peak symmetry.
 
-    ![alt text](image.png)
+    ![alt text](images/shim_peaks.png)
 
 18. `humpcal` Perform hump test.
 19. Use logbook to determine if hump test is within the normal operating window.
