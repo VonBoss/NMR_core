@@ -73,7 +73,7 @@ Notes:
     | bbo     |         500         |
     | cryoqnp |       Neo600        |
 
-3. Use the browser to locate the `\data\numrsu` directory.
+3. Use the browser to locate the `\data\nmrsu` directory.
 4. Right click the directory and `sort by date`
 5. Drag the latest `lineshape-<DATE>` file into the main window.
 6. `new` Create a new experiment.
@@ -92,13 +92,13 @@ Notes:
 
 10. `topshim gui` Shim magnet using graphical interface.
 
-    | Field        | Standard value  |     Neo400      | Cryo or Neo probes |
-    | ------------ | :-------------: | :-------------: | :----------------: |
-    | Dimension    |       1D        |       1D        |         1D         |
-    | Optimization | Solvent default | Solvent default |  Solvent default   |
-    | Tune before  |  z-x-y-xz-yz-z  |  z-x-y-xz-yz-z  |   z-x-y-xz-yz-z    |
-    | Tune after   |  z-x-y-xz-yz-z  |       off       |   z-x-y-xz-yz-z    |
-    | parameters   |       off       |    convcomp     |      convcomp      |
+    | Field        | Standard value  |     Neo400      |   Cryo probes   |
+    | ------------ | :-------------: | :-------------: | :-------------: |
+    | Dimension    |       1D        |       1D        |       1D        |
+    | Optimization | Solvent default | Solvent default | Solvent default |
+    | Tune before  |  z-x-y-xz-yz-z  |  z-x-y-xz-yz-z  |  z-x-y-xz-yz-z  |
+    | Tune after   |  z-x-y-xz-yz-z  |       off       |  z-x-y-xz-yz-z  |
+    | parameters   |       N/A       |       N/A       |    convcomp     |
 
     * **Neo400**: perform tune after in topshim gui
 
@@ -188,6 +188,8 @@ Notes:
 
     **Magnets on manual mode**:
     * `ej` Eject sample.
+    * Remove sample.
+    * `ij` Stop gas flow.
 
     **Magnets on automation**:
     * `sx ej` Eject sample.

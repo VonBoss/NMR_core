@@ -419,7 +419,7 @@ code {
 <li>Install transfer line to the liquid value on the dewar (no ferreous tools within the 5 gauss line)</li>
 </ul>
 </li>
-<li>Place cover over magnet bore (<strong>manual mode only</strong>)</li>
+<li>Place cover over magnet bore (<strong>N/A: Magnets on automation</strong>)</li>
 <li>Lower magnet legs by releasing the nitrogen gas pressure. (<strong>N/A: 400NB</strong>)</li>
 <li>Remove condenser from the nitrogen ports.</li>
 <li>Install rubber tubes onto vent ports.</li>
@@ -427,7 +427,7 @@ code {
 <li>Install transfer line to fill port.</li>
 <li>Support the transfer line with a glove and slowly open value until liquid is flowing.</li>
 <li>Adjust the liquid value on the dewar as nessecary to maintain flow rate.</li>
-<li>Close the liquid value on the dewar when the magnet is full.</li>
+<li>When the magnet is full of nitrogen, close the liquid value on the dewar.</li>
 <li>Replace condenser on the fill port.</li>
 <li>Replace condenser(s) on the vent port(s).</li>
 <li>Remove cover from magnet bore. (<strong>N/A: Magnets on automation</strong>)</li>
@@ -484,7 +484,7 @@ code {
 </table>
 </li>
 <li>
-<p>Use the browser to locate the <code>\data\numrsu</code> directory.</p>
+<p>Use the browser to locate the <code>\data\nmrsu</code> directory.</p>
 </li>
 <li>
 <p>Right click the directory and <code>sort by date</code></p>
@@ -571,7 +571,7 @@ code {
 </tr>
 <tr>
 <td>parameters</td>
-<td style="text-align:center">off</td>
+<td style="text-align:center">N/A</td>
 <td style="text-align:center">convcomp</td>
 <td style="text-align:center">convcomp</td>
 </tr>
@@ -602,6 +602,9 @@ code {
 </ul>
 </li>
 <li>
+<p>Close the topshim gui window.</p>
+</li>
+<li>
 <p><code>getprosol</code> Reads the probeheads and solvent dependent parameters.</p>
 </li>
 <li>
@@ -618,7 +621,7 @@ code {
 </li>
 <li>
 <p>Check spectrum for peak symmetry.</p>
-<p><img src="image.png" alt="alt text"></p>
+<p><img src="images/shim_peaks.png" alt="alt text"></p>
 </li>
 <li>
 <p><code>humpcal</code> Perform hump test.</p>
@@ -634,6 +637,9 @@ code {
 </ul>
 <p><strong>Fail hump test</strong>:</p>
 <ul>
+<li>
+<p><code>wsh temp_&lt;DATE&gt;</code> Temporarily save the current shim settings in case you need to revert settings.</p>
+</li>
 <li>
 <p><code>topshim gui</code> Rerun topshim.</p>
 <table>
@@ -780,6 +786,8 @@ code {
 <p><strong>Magnets on manual mode</strong>:</p>
 <ul>
 <li><code>ej</code> Eject sample.</li>
+<li>Remove sample.</li>
+<li><code>ij</code> Stop gas flow.</li>
 </ul>
 <p><strong>Magnets on automation</strong>:</p>
 <ul>
