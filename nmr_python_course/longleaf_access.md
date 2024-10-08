@@ -40,10 +40,10 @@ Once your account is approved you will be able to access Longleaf. There are man
 3) Click on "Jupyter Notebook"
 4) Request resources and click "Launch".
 
-    ![alt text](jupyter_request_session.png)
+    ![alt text](images/jupyter_request_session.png)
 
 5) Wait for resources to be allocated to you (~1-2 minutes).
 6) Click "Connect to Jupyter".
 7) In the **Launcher** under the section **Notebook**, click "Python3 (ipkernel)" to open a notebook running Python.
 
-    ![alt text](launch_python_notebook.png)
+    ![alt text](images/launch_python_notebook.png)
