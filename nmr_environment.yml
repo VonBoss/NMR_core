@@ -17,3 +17,4 @@ dependencies:
   - pyarrow
   - jupyter
   - openpyxl
+  - py3Dmol
